@@ -18,6 +18,7 @@ Cada uno de estos laboratorios están diseñados para ofrecerte una experiencia 
  
 - ### [Práctica 3. Ejercicios con Copilot y ChatGPT](./Capítulo3/README_2.md)
     - ⏱️ **Duración estimada**: 30 min.
+
 ---
 
 ## 📬 **Contacto y más información**
