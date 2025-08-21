@@ -10,9 +10,14 @@ Bienvenido a la **plataforma de laboratorios** del curso **Inteligencia Artifici
 
 Cada uno de estos laboratorios están diseñados para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
 
-01. ### [Práctica 1. Optimización de prompts según el contexto](./Capítulo2/README.md)
+- ### [Práctica 1. Optimización de prompts según el contexto](./Capítulo2/README.md)
     - ⏱️ **Duración estimada**: 60 min.
 
+- ### [Práctica 2. Creación de contenido con IA](./Capítulo3/README.md)
+    - ⏱️ **Duración estimada**: 30 min.
+ 
+- ### [Práctica 3. Ejercicios con Copilot y ChatGPT](./Capítulo3/README_2.md)
+    - ⏱️ **Duración estimada**: 30 min.
 ---
 
 ## 📬 **Contacto y más información**
