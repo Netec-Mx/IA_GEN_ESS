@@ -265,7 +265,7 @@ Mejora el prompt inicial aplicando los siguientes criterios de ingeniería de pr
 
 - Envía el prompt y analiza la respuesta generada por cada servicio.
 
-**Paso 4.** Compara los resultados
+**Paso 4.** Compara los resultados.
 - ¿Qué modelo resumió mejor la información?
 - ¿Cómo influyó la claridad y la estructura del prompt?
 
