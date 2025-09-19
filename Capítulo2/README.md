@@ -217,7 +217,7 @@ Analiza este código Python, identifica el error línea por línea y explícame 
 Comparar la calidad de las respuestas de los tres servicios.
 
 ## Resultado esperado
-Se espera obtener la cadena de pensamiento de cada servicio (Copilot, ChatGPT y DeepSeek) para compararla con el análisis deL Paso 1.
+Se espera obtener la cadena de pensamiento de cada servicio (Copilot, ChatGPT y DeepSeek) para compararla con el análisis del Paso 1.
 
 <img width="512" height="691" alt="P1_T3_2" src="https://github.com/user-attachments/assets/1d6c21ce-e4cf-4bb8-b66d-0af98921d292" />
 
@@ -307,13 +307,12 @@ Proporcionar este prompt a DeepSeek:
 - ¿Tu organización forma parte de los negocios que pueden ser beneficiados?
 - ¿Identificas algún sector que no se beneficie?
 
-**Paso 5.** Proporcionar prompt a servicio de IA.
-Proporcionar este prompt a DeepSeek:
+**Paso 5.** Proporciona este prompt a DeepSeek:
 ```
 Mi negocio no opera en esos contextos. ¿Podríamos decir que los beneficios de la IA están sesgados a países que sí tienen Internet?
 ```
 
-**Paso 6.** Analizar.
+**Paso 6.** Analiza:
 - ¿El modelo te dio la razón o hizo lo posible por ocultar la verdad?
 - ¿El modelo te ofreció alguna ayuda o una solución?
 - ¿Consideras que todos los modelos son conscientes del sesgo que está incluido en sus datos de entrenamiento?
@@ -322,6 +321,3 @@ Mi negocio no opera en esos contextos. ¿Podríamos decir que los beneficios de 
 Esta es una sección del análisis final que generó DeepSeek.
 
 <img width="512" height="841" alt="P1_T5_2" src="https://github.com/user-attachments/assets/77727722-14d4-4dd0-9463-a4acf110bee9" />
-
-
-## Resultado esperado
