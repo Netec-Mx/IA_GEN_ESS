@@ -67,7 +67,7 @@ Adaptar un mismo prompt base a diferentes audiencias (ejecutivos, técnicos y di
 
 Tu equipo debe diseñar una estrategia para migrar servicios a la nube en 6 meses.
 
-## Objetivo visual 
+#### Objetivo visual 
 <img width="406" height="497" alt="P1_T2_1" src="https://github.com/user-attachments/assets/bfa59ba1-6712-49f2-8ca2-af366c3a7e07" />
 
 
@@ -81,6 +81,7 @@ Envía el prompt y analiza la respuesta generada por cada servicio (nivel de det
 
 **Paso 2.** Entrega el prompt que define la necesidad del equipo implementando ejemplos.
 Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek:
+
 ```
 Ejemplo 1 (salida esperada):
 Título: “Transformación Digital en 6 meses”
@@ -92,7 +93,8 @@ Título: “Migración a la nube: Impacto en el negocio”
 Resumen: 3 objetivos estratégicos y una conclusión inspiradora.
 Estilo: Formal y persuasivo.
 
-Ahora diseña una estrategia para migrar servicios a la nube en 6 meses en este estilo ejecutivo para crear una presentación de PowerPoint.
+Ahora diseña una estrategia para migrar servicios a la nube en 6 meses
+en este estilo ejecutivo para crear una presentación de PowerPoint.
 ```
 
 - Envía el prompt y analiza la respuesta generada por cada servicio (formato, nivel de detalle y estilo).
@@ -107,7 +109,8 @@ Estilo: Detallado, técnico, con terminología de TI.
 Ejemplo 2 (salida esperada)
 Formato de lista numerada con pasos técnicos específicos y referencias a buenas prácticas de seguridad.
 
-Ahora, diseña la estrategia para migrar servicios a la nube en 6 meses en este estilo técnico para crear un documento técnico.
+Ahora, diseña la estrategia para migrar servicios a la nube en 6 meses
+en este estilo técnico para crear un documento técnico.
 ```
 
 - Envía el prompt y analiza la respuesta generada por cada servicio (formato, nivel de detalle y estilo).
@@ -134,7 +137,7 @@ Ahora, diseña la estrategia para migrar servicios a la nube en 6 meses en este 
 - ¿Qué diferencias hubo en el nivel de detalle?
 - ¿Qué tanto ayudaron los ejemplos (few-shots) a guiar las respuestas?
 
-## Resultado esperado
+#### Resultado esperado
 Los resultados generados podrían parecerse a los siguientes:
 
 <img width="403" height="934" alt="P1_T2_2" src="https://github.com/user-attachments/assets/cc5eb046-ed3c-448c-ac3e-a7c97cd33414" />
@@ -223,7 +226,7 @@ Después, proporciona el código corregido con comentarios que expliquen la solu
 
 **Paso 3.** Compara la calidad de las respuestas de los tres servicios.
 
-## Resultado esperado
+#### Resultado esperado
 Se espera obtener la cadena de pensamiento de cada servicio (Copilot, ChatGPT y DeepSeek) para compararla con el análisis del Paso 1.
 
 <img width="512" height="691" alt="P1_T3_2" src="https://github.com/user-attachments/assets/1d6c21ce-e4cf-4bb8-b66d-0af98921d292" />
@@ -236,7 +239,7 @@ Se espera obtener la cadena de pensamiento de cada servicio (Copilot, ChatGPT y 
 
 
 ### Tarea 4. Análisis de errores y advertencias en archivo de Logs
-## Objetivo visual 
+#### Objetivo visual 
 Con ayuda de ChatGPT y DeepSeek, crea una tabla que resuma los errores que hay en el archivo de logs, un ejemplo es la siguiente imagen. 
 
 <img width="404" height="271" alt="p1_1" src="https://github.com/user-attachments/assets/5e7d4bca-0c5d-47b7-b17e-1caa3af2c2ea" />
@@ -274,7 +277,7 @@ Mejora el prompt inicial aplicando los siguientes criterios de ingeniería de pr
 - ¿Qué modelo resumió mejor la información?
 - ¿Cómo influyó la claridad y la estructura del prompt?
 
-## Resultado esperado
+#### Resultado esperado
 Tablas de errores
 
 <img width="436" height="209" alt="p1_2" src="https://github.com/user-attachments/assets/2d75cfdc-f716-4c37-9a59-f3e7023002c4" />
@@ -284,7 +287,7 @@ Tablas de errores
 ### Tarea 5. Sesgos en la IA
 Detecta sesgos en las respuestas generadas con DeepSeek.
 
-## Objetivo visual 
+#### Objetivo visual 
 <img width="511" height="621" alt="P1_T5_1" src="https://github.com/user-attachments/assets/0a0eab7c-1de2-4f8e-b539-73e9dbe189a6" />
 
 **Paso 1.** Proporciona este prompt a DeepSeek:
@@ -309,8 +312,10 @@ Describe los beneficios de la IA en procesos de selección de personal.
 - ¿Identificas algún sector que no se beneficie?
 
 **Paso 5.** Proporciona este prompt a DeepSeek:
+
 ```
-Mi negocio no opera en esos contextos. ¿Podríamos decir que los beneficios de la IA están sesgados a países que sí tienen Internet?
+Mi negocio no opera en esos contextos.
+¿Podríamos decir que los beneficios de la IA están sesgados a países que sí tienen Internet?
 ```
 
 **Paso 6.** Analiza:
@@ -318,7 +323,7 @@ Mi negocio no opera en esos contextos. ¿Podríamos decir que los beneficios de 
 - ¿El modelo te ofreció alguna ayuda o una solución?
 - ¿Consideras que todos los modelos son conscientes del sesgo que está incluido en sus datos de entrenamiento?
 
-## Resultado esperado
+#### Resultado esperado
 Esta es una sección del análisis final que generó DeepSeek.
 
 <img width="512" height="841" alt="P1_T5_2" src="https://github.com/user-attachments/assets/77727722-14d4-4dd0-9463-a4acf110bee9" />
