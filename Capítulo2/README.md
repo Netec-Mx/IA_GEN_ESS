@@ -42,8 +42,11 @@ Tienes un servidor con 8 GB de RAM y 4 CPU. Se ejecutan tres procesos A, B y C c
 **Paso 2.** Implementa chain-of-thought.
 
 Ingresa el siguiente prompt en ChatGPT y DeepSeek.
+
 ```
-Tienes un servidor con 8 GB de RAM y 4 CPUs. Se ejecutan tres procesos A, B y C con consumo distinto. ¿Cómo distribuirías recursos para maximizar throughput? Resuelve paso a paso, primero analiza consumo, luego distribuye recursos; finalmente, explica ventajas y limitaciones.
+Tienes un servidor con 8 GB de RAM y 4 CPUs. Se ejecutan tres procesos A, B y C con consumo distinto.
+¿Cómo distribuirías recursos para maximizar throughput?
+Resuelve paso a paso, primero analiza consumo, luego distribuye recursos; finalmente, explica ventajas y limitaciones.
 ```
 
 - Envía el prompt y analiza la respuesta generada por cada servicio.
@@ -212,8 +215,10 @@ Corrige el error en este código Python.
 ```
 
 **Paso 2.** Entrega el prompt implementando chain-of-thought.
+
 ```
-Analiza este código Python, identifica el error línea por línea y explícame por qué el error ocurre. Después, proporciona el código corregido con comentarios que expliquen la solución.
+Analiza este código Python, identifica el error línea por línea y explícame por qué el error ocurre.
+Después, proporciona el código corregido con comentarios que expliquen la solución.
 ```
 
 **Paso 3.** Compara la calidad de las respuestas de los tres servicios.
