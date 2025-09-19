@@ -22,7 +22,7 @@ Sigue los pasos a continuación para completar cada tarea que conforma la práct
 ### Tarea 1. Evaluación comparativa de razonamiento (zero-shot vs. chain-of-thought)
 
 #### Objetivo visual 
-Al explorar prompts de razonamiento en problemas técnicos con ChatGPT y DeepSeek, se obtendrán resultados similares a los siguientes:
+Al explorar prompts de razonamiento en problemas técnicos con ChatGPT y DeepSeek, se obtendrán resultados similares a los siguientes.
 
 <img width="543" height="372" alt="P1_T1_1" src="https://github.com/user-attachments/assets/e962df91-e222-4c00-9685-4570d8ac235b" />
 
@@ -31,22 +31,25 @@ Al explorar prompts de razonamiento en problemas técnicos con ChatGPT y DeepSee
 **Paso 1.** Entrega un problema de optimización de TI para verificar respuestas tipo zero-shot.
 
 Ingresa el siguiente prompt en ChatGPT y DeepSeek:
+
 ```
-Tienes un servidor con 8 GB de RAM y 4 CPU. Se ejecutan tres procesos A, B y C con consumo distinto. ¿Cómo distribuirías recursos para maximizar throughput?
+Tienes un servidor con 8 GB de RAM y 4 CPU. Se ejecutan tres procesos A, B y C con consumo distinto.
+¿Cómo distribuirías recursos para maximizar throughput?
 ```
 
 - Envía el prompt y analiza la respuesta generada por cada servicio.
 
-**Paso 2.** Implementa Chain-of-Thought.
-Ingresa el siguiente prompt en ChatGPT y DeepSeek:
+**Paso 2.** Implementa chain-of-thought.
+
+Ingresa el siguiente prompt en ChatGPT y DeepSeek.
 ```
-Tienes un servidor con 8 GB de RAM y 4 CPUs. Se ejecutan tres procesos A, B y C con consumo distinto. ¿Cómo distribuirías recursos para maximizar throughput? Resuelve paso a paso, primero analiza consumo, luego distribuye recursos, finalmente explica ventajas y limitaciones.
+Tienes un servidor con 8 GB de RAM y 4 CPUs. Se ejecutan tres procesos A, B y C con consumo distinto. ¿Cómo distribuirías recursos para maximizar throughput? Resuelve paso a paso, primero analiza consumo, luego distribuye recursos; finalmente, explica ventajas y limitaciones.
 ```
 
 - Envía el prompt y analiza la respuesta generada por cada servicio.
 
 **Paso 3.** Compara los resultados obtenidos con ChatGPT y DeepSeek.
-- ¿Qué mejoras se obtuvieron con Chain-of-Thought?
+- ¿Qué mejoras se obtuvieron con chain-of-thought?
 - ¿Cuál de los modelos razonó con mayor detalle?
 
 ## Resultado esperado
@@ -56,7 +59,7 @@ Respuestas con chain-of-thought con ChatGPT y DeepSeek
 
 <img width="427" height="1051" alt="P1_T1_3" src="https://github.com/user-attachments/assets/c43a9747-ef81-48ef-99ef-ef0580a58fcb" />
 
-### Tarea 2. Planeación estratégica, implementación con Few-Shot
+### Tarea 2. Planeación estratégica, implementación con few-shot
 Adaptar un mismo prompt base a diferentes audiencias (ejecutivos, técnicos y diseñadores de roadmap) utilizando la técnica de few-shot prompting.
 
 Tu equipo debe diseñar una estrategia para migrar servicios a la nube en 6 meses.
@@ -65,16 +68,16 @@ Tu equipo debe diseñar una estrategia para migrar servicios a la nube en 6 mese
 <img width="406" height="497" alt="P1_T2_1" src="https://github.com/user-attachments/assets/bfa59ba1-6712-49f2-8ca2-af366c3a7e07" />
 
 
-**Paso 1.** Entregar el prompt que define la necesidad del equipo.
-Ingresar el siguiente prompt en ChatGPT, Copilot y DeepSeek:
+**Paso 1.** Entrega el prompt que define la necesidad del equipo.
+Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek.
 ```
-Diseñar una estrategia para migrar servicios a la nube en 6 meses.
+Diseña una estrategia para migrar servicios a la nube en 6 meses.
 ```
 
-- Enviar el prompt y analizar la respuesta generada por cada servicio (nivel de detalle y estilo).
+Envía el prompt y analiza la respuesta generada por cada servicio (nivel de detalle y estilo).
 
-**Paso 2.** Entregar el prompt que define la necesidad del equipo implementando ejemplos.
-Ingresar el siguiente prompt en ChatGPT, Copilot y DeepSeek:
+**Paso 2.** Entrega el prompt que define la necesidad del equipo implementando ejemplos.
+Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek:
 ```
 Ejemplo 1 (salida esperada):
 Título: “Transformación Digital en 6 meses”
@@ -89,41 +92,41 @@ Estilo: Formal y persuasivo.
 Ahora diseña una estrategia para migrar servicios a la nube en 6 meses en este estilo ejecutivo para crear una presentación de PowerPoint.
 ```
 
-- Enviar el prompt y analizar la respuesta generada por cada servicio (formato, nivel de detalle y estilo).
+- Envía el prompt y analiza la respuesta generada por cada servicio (formato, nivel de detalle y estilo).
 
-**Paso 3.** Entregar el prompt que define la necesidad del equipo implementando ejemplos.
-Ingresar el siguiente prompt en ChatGPT, Copilot y DeepSeek:
+**Paso 3.** Entrega el prompt que define la necesidad del equipo implementando ejemplos.
+Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek:
 ```
-Ejemplo 1 (salida esperada):
-Secciones: Introducción, Alcance, Arquitectura Propuesta, Plan de Migración, Riesgos.
+Ejemplo 1 (salida esperada)
+Secciones: Introducción, Alcance, Arquitectura propuesta, Plan de migración, Riesgos.
 Estilo: Detallado, técnico, con terminología de TI.
 
-Ejemplo 2 (salida esperada):
+Ejemplo 2 (salida esperada)
 Formato de lista numerada con pasos técnicos específicos y referencias a buenas prácticas de seguridad.
 
-Ahora diseña la estrategia para migrar servicios a la nube en 6 meses en este estilo técnico para crear un Documento Técnico.
+Ahora, diseña la estrategia para migrar servicios a la nube en 6 meses en este estilo técnico para crear un documento técnico.
 ```
 
-- Enviar el prompt y analizar la respuesta generada por cada servicio (formato, nivel de detalle y estilo).
+- Envía el prompt y analiza la respuesta generada por cada servicio (formato, nivel de detalle y estilo).
 
-**Paso 4.** Entregar el prompt que define la necesidad del equipo implementando ejemplos.
-Ingresar el siguiente prompt en ChatGPT, Copilot y DeepSeek:
+**Paso 4.** Entrega el prompt que define la necesidad del equipo implementando ejemplos.
+Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek:
 ```
-Ejemplo 1 (salida esperada):
+Ejemplo 1 (salida esperada)
 Fase 1 (Mes 1-2): Evaluación → Actividades
 Fase 2 (Mes 3-4): Migración piloto → Actividades
 Fase 3 (Mes 5-6): Migración total → Actividades
-Formato: Tabla
+Formato: tabla
 
-Ejemplo 2 (salida esperada):
+Ejemplo 2 (salida esperada)
 Diagrama tipo timeline con milestones clave y entregables en cada mes.
 
-Ahora diseña la estrategia para migrar servicios a la nube en 6 meses en este formato para crear un Roadmap visual.
+Ahora, diseña la estrategia para migrar servicios a la nube en 6 meses en este formato para crear un roadmap visual.
 ```
 
-- Enviar el prompt y analizar la respuesta generada por cada servicio (formato, nivel de detalle y estilo).
+- Envía el prompt y analiza la respuesta generada por cada servicio (formato, nivel de detalle y estilo).
 
-**Paso 5.** Analizar.
+**Paso 5.** Analiza:
 - ¿Qué herramienta se adaptó mejor al estilo esperado?
 - ¿Qué diferencias hubo en el nivel de detalle?
 - ¿Qué tanto ayudaron los ejemplos (few-shots) a guiar las respuestas?
@@ -138,8 +141,8 @@ Los resultados generados podrían parecerse a los siguientes:
 <img width="525" height="839" alt="P1_T2_4" src="https://github.com/user-attachments/assets/de9da833-cdf1-443b-ad93-8b1e5ff6ffc3" />
 
 
-### Tarea 3. Resolución de Problemas de Código.
-Usted es un programador y se encuentra con dos fragmentos de código Python que no funcionan como esperaba. Necesita identificar el error y entender por qué ocurre.
+### Tarea 3. Resolución de problemas de código
+Eres un programador y encuentras dos fragmentos de código Python que no funcionan como esperabas. Necesitas identificar el error y entender por qué ocurre.
 
 Los códigos con los que se trabajarán son los siguientes:
 ```python
@@ -202,19 +205,18 @@ print(df.to_markdown(index=False, tablefmt="github"))
 dfi.export(df, "comparativa_modelos.png", max_cols=-1)
 ```
 
-**Paso 1.** Entregar el prompt de manera directa.
-Ingresar el siguiente prompt en ChatGPT, Copilot y DeepSeek:
+**Paso 1.** Entrega el prompt de manera directa.
+Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek:
 ```
 Corrige el error en este código Python.
 ```
 
-**Paso 2.** Entregar el prompt implementando Chain-of-Thought.
+**Paso 2.** Entrega el prompt implementando chain-of-thought.
 ```
 Analiza este código Python, identifica el error línea por línea y explícame por qué el error ocurre. Después, proporciona el código corregido con comentarios que expliquen la solución.
 ```
 
-**Paso 3.** Comparar los resultados.
-Comparar la calidad de las respuestas de los tres servicios.
+**Paso 3.** Compara la calidad de las respuestas de los tres servicios.
 
 ## Resultado esperado
 Se espera obtener la cadena de pensamiento de cada servicio (Copilot, ChatGPT y DeepSeek) para compararla con el análisis del Paso 1.
@@ -230,81 +232,75 @@ Se espera obtener la cadena de pensamiento de cada servicio (Copilot, ChatGPT y 
 
 ### Tarea 4. Análisis de errores y advertencias en archivo de Logs
 ## Objetivo visual 
-Con ayuda de ChatGPT y DeepSeek, crear una tabla que resuma los errores que hay en el archivo de logs, un ejemplo es la siguiente imagen. 
+Con ayuda de ChatGPT y DeepSeek, crea una tabla que resuma los errores que hay en el archivo de logs, un ejemplo es la siguiente imagen. 
 
 <img width="404" height="271" alt="p1_1" src="https://github.com/user-attachments/assets/5e7d4bca-0c5d-47b7-b17e-1caa3af2c2ea" />
 
-**Paso 1.** Descargar el archivo con el que se trabajará.
-Descargar el archivo llamado [server_logs.xlsx](https://github.com/user-attachments/files/21859833/server_logs.xlsx) que contiene errores de un servidor.
+**Paso 1.** Descarga el archivo con el que se trabajará que contiene errores de un servidor:
+[server_logs.xlsx](https://github.com/user-attachments/files/21859833/server_logs.xlsx)
 
-**Paso 2.** Formular un prompt inicial (vago)
-Formular un prompt inicial para que el modelo analice el archivo. Este prompt debe ser deliberadamente vago.
+**Paso 2.** Formula un prompt inicial para que el modelo analice el archivo; debe ser deliberadamente vago.
 
 Ejemplo de prompt:
 ```
 ¿Qué errores hay?
 ```
 
-**Paso 3.** Aplicar criterios de ingeniería de prompts
-Mejorar el prompt inicial aplicando los siguientes criterios de ingeniería de prompts tanto en ChatGPT como en DeepSeek:
+**Paso 3.** Aplica los criterios de ingeniería de prompts.
+Mejora el prompt inicial aplicando los siguientes criterios de ingeniería de prompts tanto en ChatGPT como en DeepSeek:
 
-- Especificidad: Indicar al modelo la actividad que desea que realice, el formato de salida y el archivo sobre el cuál quiere que trabaje.
+- Especificidad: indica al modelo la actividad que desea que realice, el formato de salida y el archivo sobre el cuál se requiere que trabaje.
 
-- Enviar el prompt y analizar la respuesta generada por cada servicio.
+- Envía el prompt y analiza la respuesta generada por cada servicio.
 
-- Instrucción: Generar una tabla con las columnas: 'Error', 'Frecuencia', y 'Hora'.
+- Instrucción: genera una tabla con las columnas: 'Error', 'Frecuencia', y 'Hora'.
 
-- Enviar el prompt y analizar la respuesta generada por cada servicio.
+- Envía el prompt y analiza la respuesta generada por cada servicio.
 
-- Contexto: Proporcionar información adicional sobre el sistema para ayudar al modelo a entender los datos. En este caso, se trata de errores en un servidor web Apache.
+- Contexto: proporciona información adicional sobre el sistema para ayudar al modelo a entender los datos. En este caso, se trata de errores en un servidor web Apache.
 
-- Enviar el prompt y analizar la respuesta generada por cada servicio.
+- Envía el prompt y analiza la respuesta generada por cada servicio.
   
-- Limitaciones: Establecer restricciones para la respuesta. Por ejemplo, pedir que resuma los errores en un máximo de 5 categorías principales.
+- Limitaciones: establece restricciones para la respuesta. Por ejemplo, pedir que resuma los errores en un máximo de 5 categorías principales.
 
-- Enviar el prompt y analizar la respuesta generada por cada servicio.
+- Envía el prompt y analiza la respuesta generada por cada servicio.
 
-**Paso 4.** Comparar los resultados
-Comparar los resultados obtenidos.
-
-¿Qué modelo resumió mejor la información? 
-
-¿Cómo influyó la claridad y la estructura del prompt?
+**Paso 4.** Compara los resultados
+- ¿Qué modelo resumió mejor la información?
+- ¿Cómo influyó la claridad y la estructura del prompt?
 
 ## Resultado esperado
-Tablas de errores.
+Tablas de errores
 
 <img width="436" height="209" alt="p1_2" src="https://github.com/user-attachments/assets/2d75cfdc-f716-4c37-9a59-f3e7023002c4" />
 
 <img width="441" height="193" alt="p1_3" src="https://github.com/user-attachments/assets/9ce3edac-b091-45c9-a526-38967193eb5a" />
 
-### Tarea 5. Sesgos en la IA.
-Detectar sesgos en respuestas generadas con DeepSeek.
+### Tarea 5. Sesgos en la IA
+Detecta sesgos en las respuestas generadas con DeepSeek.
 
 ## Objetivo visual 
 <img width="511" height="621" alt="P1_T5_1" src="https://github.com/user-attachments/assets/0a0eab7c-1de2-4f8e-b539-73e9dbe189a6" />
 
-**Paso 1.** Proporcionar prompt a servicio de IA.
-Proporcionar este prompt a DeepSeek:
+**Paso 1.** Proporciona este prompt a DeepSeek:
 ```
 Describe los beneficios de la IA en procesos de selección de personal.
 ```
 
-**Paso 2.** Analizar.
+**Paso 2.** Analiza:
 - ¿Menciona género, edad, nacionalidad?
 - ¿Qué lenguaje usa?
 - ¿Hay estereotipos?
 
-**Paso 3.** Proporcionar prompt a servicio de IA.
-Proporcionar este prompt a DeepSeek:
+**Paso 3.** Proporciona este prompt a DeepSeek: 
 ```
 ¿Para qué negocios aplican esos beneficios y en qué países?
 ```
 
-**Paso 4.** Analizar.
+**Paso 4.** Analiza:
 - ¿Menciona todos los países del mundo?
 - ¿Identificas a tu país?
-- ¿Tu organización forma parte de los negocios que pueden ser beneficiados?
+- ¿Tu organización forma parte de los negocios que pueden beneficiarse?
 - ¿Identificas algún sector que no se beneficie?
 
 **Paso 5.** Proporciona este prompt a DeepSeek:
