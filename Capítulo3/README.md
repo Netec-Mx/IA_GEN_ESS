@@ -1,14 +1,14 @@
-# Práctica 2. Creación de contenido con IA.
+# Práctica 2. Creación de contenido con IA
 
-## Objetivo de la práctica:
+## Objetivos
 Al finalizar la práctica, serás capaz de:
 - Crear contenido estratégico usando prompts efectivos.
 - Explorar distintos formatos comunicativos.
 - Comparar herramientas para optimizar resultados según el tipo de contenido deseado.
 
 
-## Tabla de ayuda:
-Para que puedas replicar las prácticas, se recomienda crear una cuenta **gratuita** en las siguientes plataformas:
+## Tabla de ayuda
+Para que puedas replicar las prácticas, se recomienda crear una cuenta **gratuita** en las siguientes plataformas.
 
 | Sitio web | Enlace |
 | --- | --- | 
@@ -16,16 +16,16 @@ Para que puedas replicar las prácticas, se recomienda crear una cuenta **gratui
 | Copilot | https://copilot.microsoft.com/login |
 | DeepSeek | https://www.deepseek.com/en |
 
-## Duración aproximada:
+## Duración aproximada
 - 30 minutos.
 
 ## Instrucciones 
 Sigue los pasos a continuación para completar cada tarea que conforma la práctica.
 
-### Tarea 1. Creación de correos electrónicos a partir de una necesidad.
+### Tarea 1. Creación de correos electrónicos a partir de una necesidad
 Utilizar Copilot y DeepSeek para desarrollar esta práctica.
 
-#### Paso 1. Entregar prompt a Copilot Chat y DeepSeek.
+**Paso 1.** Entregar prompt a Copilot Chat y DeepSeek.
 Ingresar el siguiente prompt en Copilot Chat y DeepSeek:
 ```
 Redacta un correo para anunciar que habrá una ventana de mantenimiento del sistema este sábado a las 2 AM. El mensaje debe ser corto y formal.
@@ -33,7 +33,7 @@ Redacta un correo para anunciar que habrá una ventana de mantenimiento del sist
 
 - Enviar el prompt y analizar la respuesta generada por cada servicio.
 
-#### Paso 2. Comparar los resultados.
+**Paso 2.** Comparar los resultados.
 - ¿Qué ventajas notas al utilizar cada uno de estos servicios?
 
 #### Resultado esperado
@@ -47,7 +47,7 @@ Al explorar los resultados generados con Copilot y DeepSeek, se obtendrán resul
 ### Tarea 2. Campaña de lanzamiento de producto.
 Utilizar ChatGPT, Copilot y DeepSeek para desarrollar esta práctica.
 
-#### Paso 1. Prompt creativo.
+**Paso 1.** Prompt creativo.
 Ingresar el siguiente prompt en ChatGPT:
 ```
 Crea un eslogan atractivo y un párrafo promocional para anunciar una nueva API de seguridad en la nube. Debe sonar innovador y confiable.
@@ -56,7 +56,7 @@ Crea un eslogan atractivo y un párrafo promocional para anunciar una nueva API 
 
 - Enviar el prompt y analizar la respuesta generada.
 
-#### Paso 2. Prompt estratégico.
+**Paso 2.** Prompt estratégico.
 - Copiar el contenido generado por ChatGPT y pegarlo en Copilot.
 - Ingresar el siguiente prompt en Copilot:
 ```
@@ -67,7 +67,7 @@ Convierte este eslogan y párrafo en una propuesta formal de campaña para ejecu
 
 - Enviar el prompt y analizar la respuesta generada.
 
-#### Paso 3. Prompt analítico.
+**Paso 3.** Prompt analítico.
 - Copiar el contenido generado por Copilot y pegarlo en DeepSeek.
 - Ingresar el siguiente prompt en DeepSeek:
 ```
@@ -92,7 +92,7 @@ Al explorar los resultados generados con ChatGPT, Copilot y DeepSeek, se obtendr
 ### Tarea 3. Artículo de blog.
 Utilizar ChatGPT, opilot y DeepSeek para desarrollar esta práctica.
 
-#### Paso 1. Prompt creativo.
+**Paso 1.** Prompt creativo.
 Ingresar el siguiente prompt en ChatGPT:
 ```
 Redacta un artículo de blog de 550 palabras titulado “El futuro de la IA en la productividad empresarial”. Usa un tono inspirador y accesible.
@@ -101,7 +101,7 @@ Redacta un artículo de blog de 550 palabras titulado “El futuro de la IA en l
 - Enviar el prompt y analizar la respuesta generada.
 - ¿El artículo contiene la cantidad de palabras definida?
 
-#### Paso 2. Prompt de optimización.
+**Paso 2.** Prompt de optimización.
 - Copiar el contenido generado por ChatGPT y pegarlo en Copilot.
 - Ingresar el siguiente prompt en Copilot:
 ```
@@ -112,7 +112,7 @@ Convierte este eslogan y párrafo en una propuesta formal de campaña para ejecu
 
 - Enviar el prompt y analizar la respuesta generada.
 
-#### Paso 3. Prompt creativo y analítico.
+**Paso 3.** Prompt creativo y analítico.
 - Copiar el contenido generado por Copilot y pegarlo en DeepSeek.
 - Ingresar el siguiente prompt en DeepSeek:
 ```
@@ -138,8 +138,8 @@ Utilizar ChatGPT y DeepSeek para desarrollar esta práctica.
 
 Escenario: Tu equipo ha recopilado los siguientes comentarios de clientes en una encuesta. Necesitas analizarlos rápidamente para identificar los problemas principales.
 
-#### Paso 1. 
-Ingresar el siguiente prompt en ChatGPT:
+**Paso 1.** Ingresa el siguiente prompt a ChatGPT.
+
 ```
 Analiza los siguientes comentarios de clientes y genera un informe de dos puntos:
 1) Un resumen descriptivo del sentimiento general de los comentarios (positivo, negativo, neutral)
@@ -150,10 +150,9 @@ Comentarios: ["El soporte técnico es excelente, pero la aplicación tiene mucho
 
 - Enviar el prompt y analizar la respuesta generada por cada servicio.
 
-#### Paso 2. 
-Repite las intrucciones del paso anterio pero en DeepSeek.
+**Paso 2.** Repite las intrucciones del paso anterio pero en DeepSeek.
 
-#### Paso 3. Comparar los resultados.
+**Paso 3.** Compara los resultados.
 - ¿Consideras que estos modelos son lo suficientemente buenos para hacer un análisis de sentimientos sin necesidad de tener que entrenar/crear/programar tu propia solución?
 - ¿Qué resultados obtendrías al replicar estas instrucciones en Copilot?
 #### Resultado esperado
@@ -166,7 +165,7 @@ Al explorar los resultados generados con Copilot y DeepSeek, se obtendrán resul
 ### Tarea 5. Análisis Predictivo y Generación de Insights.
 Utilizar DeepSeek para desarrollar esta práctica.
 
-#### Paso 1. Generación de Código para Análisis Predictivo.
+**Paso 1.** Generación de Código para Análisis Predictivo.
 Ingresar el siguiente prompt en DeepSeek:
 ```
 Actúa como un científico de datos. Utilizando la librería scikit-learn de Python, genera un script de análisis predictivo. El script debe cargar un archivo llamado 'churn_data.xlsx', realizar una separación de los datos en entrenamiento y prueba, entrenar un modelo de regresión logística para predecir la deserción de clientes y luego imprimir el 'accuracy score' del modelo. El código debe estar bien comentado.
@@ -176,15 +175,15 @@ Actúa como un científico de datos. Utilizando la librería scikit-learn de Pyt
 - Enviar el prompt y analizar la respuesta generada.
 - ¿El código está lo suficientemente comentado?
 
-#### Paso 2. Generación de Código de Archivo para Análisis Predictivo.
-- Ingresar el siguiente prompt en DeepSeek:
+**Paso 2.** Generación de Código de Archivo para Análisis Predictivo.
+- Ingresa el siguiente prompt en DeepSeek:
 ```
 Genera el archivo churn_data.xlsx que contiene la información necesaria para que este programa genere la respuesta esperada.
 ```
 
 - Enviar el prompt y analizar la respuesta generada.
 
-#### Paso 3. Verificación.
+**Paso 3.** Verificación.
 En caso de tener instalado Python:
 - Ejecuta el programa y verifica que efectivamente se genere el archivo 'churn_data.xlsx'.
 - Ejecuta el archivo que contiene el código para realizar el análisis predictivo.
