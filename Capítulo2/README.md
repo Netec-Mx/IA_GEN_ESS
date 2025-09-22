@@ -7,6 +7,8 @@ Al finalizar la práctica, serás capaz de:
 ## Duración aproximada
 - 60 minutos.
 
+## Objetivo visual
+
 ## Tabla de ayuda
 Para que puedas replicar las prácticas, se recomienda crear una cuenta **gratuita** en las siguientes plataformas.
 
@@ -21,7 +23,6 @@ Sigue los pasos a continuación para completar cada tarea que conforma la práct
 
 ### Tarea 1. Evaluación comparativa de razonamiento (zero-shot vs. chain-of-thought)
 
-#### Objetivo visual 
 Al explorar prompts de razonamiento en problemas técnicos con ChatGPT y DeepSeek, se obtendrán resultados similares a los siguientes.
 
 <img width="543" height="372" alt="P1_T1_1" src="https://github.com/user-attachments/assets/e962df91-e222-4c00-9685-4570d8ac235b" />
@@ -67,7 +68,6 @@ Adaptar un mismo prompt base a diferentes audiencias (ejecutivos, técnicos y di
 
 Tu equipo debe diseñar una estrategia para migrar servicios a la nube en 6 meses.
 
-#### Objetivo visual 
 <img width="406" height="497" alt="P1_T2_1" src="https://github.com/user-attachments/assets/bfa59ba1-6712-49f2-8ca2-af366c3a7e07" />
 
 
@@ -239,7 +239,7 @@ Se espera obtener la cadena de pensamiento de cada servicio (Copilot, ChatGPT y 
 
 
 ### Tarea 4. Análisis de errores y advertencias en archivo de Logs
-#### Objetivo visual 
+
 Con ayuda de ChatGPT y DeepSeek, crea una tabla que resuma los errores que hay en el archivo de logs, un ejemplo es la siguiente imagen. 
 
 <img width="404" height="271" alt="p1_1" src="https://github.com/user-attachments/assets/5e7d4bca-0c5d-47b7-b17e-1caa3af2c2ea" />
@@ -287,7 +287,6 @@ Tablas de errores
 ### Tarea 5. Sesgos en la IA
 Detecta sesgos en las respuestas generadas con DeepSeek.
 
-#### Objetivo visual 
 <img width="511" height="621" alt="P1_T5_1" src="https://github.com/user-attachments/assets/0a0eab7c-1de2-4f8e-b539-73e9dbe189a6" />
 
 **Paso 1.** Proporciona este prompt a DeepSeek:
