@@ -6,6 +6,10 @@ Al finalizar la práctica, serás capaz de:
 - Explorar distintos formatos comunicativos.
 - Comparar herramientas para optimizar resultados según el tipo de contenido deseado.
 
+## Duración aproximada
+- 30 minutos.
+
+## Objetivo visual
 
 ## Tabla de ayuda
 Para que puedas replicar las prácticas, se recomienda crear una cuenta **gratuita** en las siguientes plataformas.
@@ -15,9 +19,6 @@ Para que puedas replicar las prácticas, se recomienda crear una cuenta **gratui
 | ChatGPT | https://auth.openai.com/create-account | 
 | Copilot | https://copilot.microsoft.com/login |
 | DeepSeek | https://www.deepseek.com/en |
-
-## Duración aproximada
-- 30 minutos.
 
 ## Instrucciones 
 Sigue los pasos a continuación para completar cada tarea que conforma la práctica.
@@ -37,7 +38,7 @@ El mensaje debe ser corto y formal.
 - ¿Qué ventajas notas al utilizar cada uno de estos servicios?
 
 #### Resultado esperado
-Al explorar los resultados generados con Copilot y DeepSeek, se obtendrán resultados similares a los siguientes:
+Los resultados generados con Copilot y DeepSeek serán similares a los siguientes.
 
 <img width="521" height="449" alt="P2_T1_1" src="https://github.com/user-attachments/assets/27a9e8e8-0fc6-43b3-a5bc-634078bb1f2f" />
 
@@ -56,28 +57,30 @@ Debe sonar innovador y confiable.
 
 - Envía el prompt y analiza la respuesta generada.
 
-**Paso 2.** Copia el contenido generado por ChatGPT y pégalo en Copilot. Después, ingresa el siguiente prompt estratégico en Copilot.
+**Paso 2.** Copia el contenido generado por ChatGPT en Copilot, así como el siguiente prompt estratégico.
 ```
 [Coloca aquí el contenido obtenido en el Paso 1.]
 
-Convierte este eslogan y párrafo en una propuesta formal de campaña para ejecutivos. Incluye objetivos, público objetivo y un mensaje clave de confianza.
+Convierte este eslogan y párrafo en una propuesta formal de campaña para ejecutivos.
+Incluye objetivos, público objetivo y un mensaje clave de confianza.
 ```
 
 - Envía el prompt y analiza la respuesta generada.
 
-**Paso 3.** Copia el contenido generado por Copilot y pégalo en DeepSeek. Después, ingresa el siguiente prompt analítico en DeepSeek.
+**Paso 3.** Copia el contenido generado por Copilot en DeepSeek, así como el siguiente prompt analítico.
 ```
 [Coloca aquí el contenido obtenido en el Paso 2.]
 
-A partir de la información anterior, genera tres mensajes alternativos de campaña con énfasis en métricas de seguridad
-(por ejemplo, reducción de brechas, cumplimiento normativo, monitoreo en tiempo real)
+A partir de la información anterior, genera tres mensajes alternativos
+de campaña con énfasis en métricas de seguridad (por ejemplo, reducción de brechas,
+cumplimiento normativo, monitoreo en tiempo real).
 ```
 
 - Envía el prompt y analiza la respuesta generada.
 - ¿Consideras que esta es una buena estrategia de generación de contenido?
    
 #### Resultado esperado
-Al explorar los resultados generados con ChatGPT, Copilot y DeepSeek, se obtendrán resultados similares a los siguientes:
+Los resultados generados con ChatGPT, Copilot y DeepSeek serán similares a los siguientes.
 
 <img width="592" height="357" alt="P2_T2_1" src="https://github.com/user-attachments/assets/ef99fea8-cbd2-46df-b7a0-8429c934e005" />
 
@@ -89,7 +92,7 @@ Al explorar los resultados generados con ChatGPT, Copilot y DeepSeek, se obtendr
 ### Tarea 3. Artículo de blog
 Utiliza ChatGPT, Copilot y DeepSeek para desarrollar esta práctica.
 
-**Paso 1.** Ingresa el siguiente prompt creativo en ChatGPT:
+**Paso 1.** Ingresa el siguiente prompt creativo en ChatGPT.
 ```
 Redacta un artículo de blog de 550 palabras titulado “El futuro de la IA en la productividad empresarial”.
 Usa un tono inspirador y accesible.
@@ -98,20 +101,22 @@ Usa un tono inspirador y accesible.
 - Envía el prompt y analiza la respuesta generada.
 - ¿El artículo contiene la cantidad de palabras definida?
 
-**Paso 2.** Copia el contenido generado por ChatGPT y pegarlo en Copilot. Después, ingresa el siguiente prompt de optimización en Copilot.
+**Paso 2.** Copia el contenido generado por ChatGPT en Copilot, así como el siguiente prompt de optimización.
 ```
 [Coloca aquí el contenido obtenido en el Paso 1.]
 
-Convierte este eslogan y párrafo en una propuesta formal de campaña para ejecutivos. Incluye objetivos, público objetivo y un mensaje clave de confianza.
+Convierte este eslogan y párrafo en una propuesta formal de campaña para ejecutivos.
+Incluye objetivos, público objetivo y un mensaje clave de confianza.
 ```
 
 - Envía el prompt y analiza la respuesta generada.
 
-**Paso 3.** Copia el contenido generado por Copilot y pegarlo en DeepSeek.Después,ingresa el siguiente prompt creativo y analítico en DeepSeek.
+**Paso 3.** Copia el contenido generado por Copilot en DeepSeek, así como el siguiente prompt creativo y analítico.
 ```
 [Coloca aquí el contenido obtenido en el Paso 2.]
 
-Agrega al artículo 3 curiosidades basadas en datos reales o estudios recientes sobre el impacto de la IA en productividad.
+Agrega al artículo tres curiosidades basadas en datos reales o estudios
+recientes sobre el impacto de la IA en la productividad.
 ```
 
 - Envía el prompt y analiza la respuesta generada.
@@ -119,7 +124,7 @@ Agrega al artículo 3 curiosidades basadas en datos reales o estudios recientes 
 - ¿Cada servicio cumplió de manera satistactoria con las solicitudes?
   
 #### Resultado esperado
-Al explorar los resultados generados con ChatGPT, Copilot y DeepSeek, se obtendrán resultados similares a los siguientes.
+Los resultados generados con ChatGPT, Copilot y DeepSeek serán similares a los siguientes.
 
 <img width="405" height="741" alt="P2_T3_1" src="https://github.com/user-attachments/assets/1f5a107f-10cf-43cd-aeb7-820e5fa9564f" />
 
@@ -136,11 +141,11 @@ Escenario: tu equipo ha recopilado los siguientes comentarios de clientes en una
 
 ```
 Analiza los siguientes comentarios de clientes y genera un informe de dos puntos:
-1) Un resumen descriptivo del sentimiento general de los comentarios (positivo, negativo, neutral)
-2) Un análisis diagnóstico de los 3 problemas más comunes que los clientes están reportando.
+1) Un resumen descriptivo del sentimiento general de los comentarios (positivo, negativo, neutral).
+2) Un análisis diagnóstico de los tres problemas más comunes que los clientes están reportando.
 --------------------------------------------------------
 Comentarios: ["El soporte técnico es excelente, pero la aplicación tiene muchos errores",
-"La interfaz de usuario es muy lenta, es frustrante usarla", "El nuevo módulo de reportes es muy útil, ¡gran trabajo!",
+"La interfaz del usuario es muy lenta, es frustrante usarla", "El nuevo módulo de reportes es muy útil, ¡gran trabajo!",
 "El equipo de soporte respondió rápidamente y resolvió mi problema", "No puedo acceder a mi cuenta, el inicio de sesión falla constantemente"]
 ```
 
@@ -149,11 +154,11 @@ Comentarios: ["El soporte técnico es excelente, pero la aplicación tiene mucho
 **Paso 2.** Repite las intrucciones del paso anterio pero en DeepSeek.
 
 **Paso 3.** Compara los resultados.
-- ¿Consideras que estos modelos son lo suficientemente buenos para hacer un análisis de sentimientos sin necesidad de tener que entrenar, crear o programar tu propia solución?
+- ¿Consideras que estos modelos son lo suficientemente buenos para hacer un análisis de sentimientos sin la necesidad de entrenar, crear o programar tu propia solución?
 - ¿Qué resultados obtendrías al replicar estas instrucciones en Copilot?
   
 #### Resultado esperado
-Al explorar los resultados generados con Copilot y DeepSeek, se obtendrán resultados similares a los siguientes.
+Los resultados generados con Copilot y DeepSeek serán similares a los siguientes.
 
 <img width="401" height="748" alt="P2_T4_1" src="https://github.com/user-attachments/assets/cb3d5561-257a-46e3-81a2-ec931a082b88" />
 
@@ -186,7 +191,7 @@ En caso de tener instalado Python:
 - Analiza los resultados.
 
 En caso de *no* tener instalado Python:
-- Copia el contenido generado por DeepSeek (el que genera el archivo xlsx) y pégalo en ChatGPT.
+- Copia el contenido generado por DeepSeek (el que genera el archivo .xlsx) en ChatGPT.
 - Ingresa el siguiente prompt en ChatGPT:
 ```
 Actúa como terminal de python y ejecuta el siguiente programa:
@@ -205,7 +210,7 @@ Actúa como terminal de Python y ejecuta el siguiente programa con los datos del
 - ¿Conocías esta capacidad de ChatGPT de actuar como terminal de Python?
    
 #### Resultado esperado
-Al explorar los resultados generados con DeepSeek (y Python o ChatGPT), se obtendrán resultados similares a los siguientes:
+Los resultados generados con DeepSeek (y Python o ChatGPT) serán similares a los siguientes.
 
 <img width="428" height="719" alt="P2_T5_1" src="https://github.com/user-attachments/assets/3c4f4f2d-7357-4155-a820-4fe4c2c6c386" />
 
