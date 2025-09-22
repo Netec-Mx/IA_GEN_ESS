@@ -46,8 +46,9 @@ Ingresa el siguiente prompt en ChatGPT y DeepSeek.
 
 ```
 Tienes un servidor con 8 GB de RAM y 4 CPUs. Se ejecutan tres procesos A, B y C con consumo distinto.
-¿Cómo distribuirías recursos para maximizar throughput?
-Resuelve paso a paso, primero analiza consumo, luego distribuye recursos; finalmente, explica ventajas y limitaciones.
+¿Cómo distribuirías los recursos para maximizar el throughput?
+Resuelve paso a paso, primero analiza el consumo, luego distribuye recursos;
+finalmente, explica sus ventajas y limitaciones.
 ```
 
 - Envía el prompt y analiza la respuesta generada por cada servicio.
@@ -56,8 +57,8 @@ Resuelve paso a paso, primero analiza consumo, luego distribuye recursos; finalm
 - ¿Qué mejoras se obtuvieron con chain-of-thought?
 - ¿Cuál de los modelos razonó con mayor detalle?
 
-## Resultado esperado
-Respuestas con chain-of-thought con ChatGPT y DeepSeek
+#### Resultado esperado
+Respuestas con chain-of-thought en ChatGPT y DeepSeek
 
 <img width="342" height="1063" alt="P1_T1_2" src="https://github.com/user-attachments/assets/908b07e9-cb63-4585-88b7-7583f3a1f265" />
 
@@ -80,31 +81,31 @@ Diseña una estrategia para migrar servicios a la nube en 6 meses.
 Envía el prompt y analiza la respuesta generada por cada servicio (nivel de detalle y estilo).
 
 **Paso 2.** Entrega el prompt que define la necesidad del equipo implementando ejemplos.
-Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek:
+Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek.
 
 ```
 Ejemplo 1 (salida esperada):
-Título: “Transformación Digital en 6 meses”
-Resumen: Estrategia clara y concisa, 3 bullets de beneficios clave.
-Estilo: Lenguaje ejecutivo, sin detalles técnicos.
+Título: “Transformación digital en 6 meses”
+Resumen: estrategia clara y concisa, tres bullets de beneficios clave.
+Estilo: lenguaje ejecutivo, sin detalles técnicos.
 
 Ejemplo 2 (salida esperada):
-Título: “Migración a la nube: Impacto en el negocio”
-Resumen: 3 objetivos estratégicos y una conclusión inspiradora.
-Estilo: Formal y persuasivo.
+Título: “Migración a la nube: impacto en el negocio”
+Resumen: tres objetivos estratégicos y una conclusión inspiradora.
+Estilo: formal y persuasivo.
 
-Ahora diseña una estrategia para migrar servicios a la nube en 6 meses
+Ahora, diseña una estrategia para migrar servicios a la nube en 6 meses
 en este estilo ejecutivo para crear una presentación de PowerPoint.
 ```
 
 - Envía el prompt y analiza la respuesta generada por cada servicio (formato, nivel de detalle y estilo).
 
 **Paso 3.** Entrega el prompt que define la necesidad del equipo implementando ejemplos.
-Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek:
+Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek.
 ```
 Ejemplo 1 (salida esperada)
-Secciones: Introducción, Alcance, Arquitectura propuesta, Plan de migración, Riesgos.
-Estilo: Detallado, técnico, con terminología de TI.
+Secciones: introducción, alcance, arquitectura propuesta, plan de migración, riesgos.
+Estilo: detallado, técnico, con terminología de TI.
 
 Ejemplo 2 (salida esperada)
 Formato de lista numerada con pasos técnicos específicos y referencias a buenas prácticas de seguridad.
@@ -116,12 +117,12 @@ en este estilo técnico para crear un documento técnico.
 - Envía el prompt y analiza la respuesta generada por cada servicio (formato, nivel de detalle y estilo).
 
 **Paso 4.** Entrega el prompt que define la necesidad del equipo implementando ejemplos.
-Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek:
+Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek.
 ```
 Ejemplo 1 (salida esperada)
-Fase 1 (Mes 1-2): Evaluación → Actividades
-Fase 2 (Mes 3-4): Migración piloto → Actividades
-Fase 3 (Mes 5-6): Migración total → Actividades
+Fase 1 (mes 1-2): evaluación → actividades
+Fase 2 (mes 3-4): migración piloto → actividades
+Fase 3 (mes 5-6): migración total → actividades
 Formato: tabla
 
 Ejemplo 2 (salida esperada)
@@ -150,7 +151,7 @@ Los resultados generados podrían parecerse a los siguientes:
 ### Tarea 3. Resolución de problemas de código
 Eres un programador y encuentras dos fragmentos de código Python que no funcionan como esperabas. Necesitas identificar el error y entender por qué ocurre.
 
-Los códigos con los que se trabajarán son los siguientes:
+Los códigos con los que se trabajarán son los siguientes.
 ```python
 def calcular_promedio(numeros):
     total = 0
@@ -212,7 +213,7 @@ dfi.export(df, "comparativa_modelos.png", max_cols=-1)
 ```
 
 **Paso 1.** Entrega el prompt de manera directa.
-Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek:
+Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek.
 ```
 Corrige el error en este código Python.
 ```
@@ -244,24 +245,23 @@ Con ayuda de ChatGPT y DeepSeek, crea una tabla que resuma los errores que hay e
 
 <img width="404" height="271" alt="p1_1" src="https://github.com/user-attachments/assets/5e7d4bca-0c5d-47b7-b17e-1caa3af2c2ea" />
 
-**Paso 1.** Descarga el archivo con el que se trabajará que contiene errores de un servidor:
+**Paso 1.** Descarga el archivo con el que se trabajará que contiene errores de un servidor.
 [server_logs.xlsx](https://github.com/user-attachments/files/21859833/server_logs.xlsx)
 
-**Paso 2.** Formula un prompt inicial para que el modelo analice el archivo; debe ser deliberadamente vago.
+**Paso 2.** Formula un prompt inicial para que el modelo analice el archivo, debe ser deliberadamente vago.
 
 Ejemplo de prompt:
 ```
 ¿Qué errores hay?
 ```
 
-**Paso 3.** Aplica los criterios de ingeniería de prompts.
-Mejora el prompt inicial aplicando los siguientes criterios de ingeniería de prompts tanto en ChatGPT como en DeepSeek:
+**Paso 3.** Mejora el prompt inicial aplicando los siguientes criterios de ingeniería de prompts tanto en ChatGPT como en DeepSeek.
 
-- Especificidad: indica al modelo la actividad que desea que realice, el formato de salida y el archivo sobre el cuál se requiere que trabaje.
+- Especificidad: indica al modelo la actividad que deseas que realice, el formato de salida y el archivo sobre el cual se requiere que trabaje.
 
 - Envía el prompt y analiza la respuesta generada por cada servicio.
 
-- Instrucción: genera una tabla con las columnas: 'Error', 'Frecuencia', y 'Hora'.
+- Instrucción: genera una tabla con las columnas: `Error`, `Frecuencia` y `Hora`.
 
 - Envía el prompt y analiza la respuesta generada por cada servicio.
 
@@ -269,7 +269,7 @@ Mejora el prompt inicial aplicando los siguientes criterios de ingeniería de pr
 
 - Envía el prompt y analiza la respuesta generada por cada servicio.
   
-- Limitaciones: establece restricciones para la respuesta. Por ejemplo, pedir que resuma los errores en un máximo de 5 categorías principales.
+- Limitaciones: establece restricciones para la respuesta. Por ejemplo, pedir que resuma los errores en un máximo de cinco categorías principales.
 
 - Envía el prompt y analiza la respuesta generada por cada servicio.
 
@@ -289,7 +289,7 @@ Detecta sesgos en las respuestas generadas con DeepSeek.
 
 <img width="511" height="621" alt="P1_T5_1" src="https://github.com/user-attachments/assets/0a0eab7c-1de2-4f8e-b539-73e9dbe189a6" />
 
-**Paso 1.** Proporciona este prompt a DeepSeek:
+**Paso 1.** Proporciona este prompt a DeepSeek.
 ```
 Describe los beneficios de la IA en procesos de selección de personal.
 ```
@@ -299,7 +299,7 @@ Describe los beneficios de la IA en procesos de selección de personal.
 - ¿Qué lenguaje usa?
 - ¿Hay estereotipos?
 
-**Paso 3.** Proporciona este prompt a DeepSeek: 
+**Paso 3.** Proporciona este prompt a DeepSeek.
 ```
 ¿Para qué negocios aplican esos beneficios y en qué países?
 ```
@@ -310,7 +310,7 @@ Describe los beneficios de la IA en procesos de selección de personal.
 - ¿Tu organización forma parte de los negocios que pueden beneficiarse?
 - ¿Identificas algún sector que no se beneficie?
 
-**Paso 5.** Proporciona este prompt a DeepSeek:
+**Paso 5.** Proporciona este prompt a DeepSeek.
 
 ```
 Mi negocio no opera en esos contextos.
@@ -319,7 +319,7 @@ Mi negocio no opera en esos contextos.
 
 **Paso 6.** Analiza:
 - ¿El modelo te dio la razón o hizo lo posible por ocultar la verdad?
-- ¿El modelo te ofreció alguna ayuda o una solución?
+- ¿El modelo te ofreció alguna ayuda o solución?
 - ¿Consideras que todos los modelos son conscientes del sesgo que está incluido en sus datos de entrenamiento?
 
 #### Resultado esperado
