@@ -1,10 +1,15 @@
-# Práctica 3. Ejercicios con Copilot y ChatGPT.
+# Práctica 3. Ejercicios con Copilot y ChatGPT
 
-## Objetivo de la práctica:
+## Objetivo de la práctica
 Al finalizar la práctica, serás capaz de:
 - Explorar casos de uso en análisis, insights y decisiones, diferenciando resultados con distintas herramientas.
 
-## Tabla de ayuda:
+## Duración aproximada
+- 30 minutos.
+
+## Objetivo visual
+
+## Tabla de ayuda
 Para que puedas replicar las prácticas, se recomienda crear una cuenta **gratuita** en las siguientes plataformas:
 
 | Sitio web | Enlace |
@@ -12,51 +17,49 @@ Para que puedas replicar las prácticas, se recomienda crear una cuenta **gratui
 | ChatGPT | https://auth.openai.com/create-account | 
 | Copilot | https://copilot.microsoft.com/login |
 
-## Duración aproximada:
-- 30 minutos.
 
 ## Instrucciones 
 Sigue los pasos a continuación para completar cada tarea que conforma la práctica.
 
-### Tarea 1. Insights de ventas.
+### Tarea 1. Insights de ventas
 Utilizar Copilot y ChatGPT para desarrollar esta práctica.
 
-#### Paso 1. Obtener archivo ventas.xlsx
-Descarga el archivo [ventas.xlsx](https://github.com/user-attachments/files/21908940/ventas.xlsx) y observa los datos que contiene.
+**Paso 1.** Descarga el archivo [ventas.xlsx](https://github.com/user-attachments/files/21908940/ventas.xlsx) y observa los datos que contiene.
 
-#### Paso 2. Insights.
-Ingresar el siguiente prompt en ChatGPT:
+**Paso 2.** Insights.
+Ingresa el siguiente prompt en ChatGPT.
 ```
 A partir de este dataset de ventas (xlsx), identifica:
-- regiones con mayor caída en ventas,
-- productos con mayor churn,
-- una recomendación para recuperar clientes.
+- Regiones con mayor caída en ventas
+- Productos con mayor churn
+- Una recomendación para recuperar clientes
 ```
 
-- Enviar el prompt y analizar la respuesta generada por cada servicio.
+- Envía el prompt y analiza la respuesta generada por cada servicio.
 
-#### Paso 2. Presentación ejecutiva.
-- Copiar el contenido entregado por ChatGPT.
-Ingresar el siguiente prompt en Copilot:
+**Paso 3.** Presentación ejecutiva.
+- Copia el contenido entregado por ChatGPT.
+Ingresa el siguiente prompt en Copilot.
 ```
-Convierte estas recomendaciones en 3 diapositivas ejecutivas con:
+Convierte estas recomendaciones en tres diapositivas ejecutivas con:
 - problema,
 - oportunidad,
 - plan de acción.
 ```
 
-- Enviar el prompt, descarga la ppt y observa los resultados.
+- Envía el prompt, descarga la PPT y observa los resultados.
 
-#### En caso de tener Copilot integrado en Power Point: 
-##### Paso 3. Edición de ppt.
-En PowerPoint selecciona el ícono de Copilot <img width="55" height="71" alt="P3_T1_1" src="https://github.com/user-attachments/assets/64798abc-1636-492c-a680-5b2333a8a681" />  que se encuentra en la esquina superior derecha.
-- Ingresa el siguiente prompt en el Chat de Copilot:
+
+**Paso 3.** Edición de PPT.
+En caso de tener Copilot integrado en PowerPoint.
+En PowerPoint, selecciona el ícono de Copilot <img width="55" height="71" alt="P3_T1_1" src="https://github.com/user-attachments/assets/64798abc-1636-492c-a680-5b2333a8a681" />  que se encuentra en la esquina superior derecha.
+- Ingresa el siguiente prompt en el chat de Copilot:
 ```
 Agrega notas al orador en cada diapositiva.
 ```
-- Enviar el prompt, y verificar cambios sobre la sección de Notas.
+- Envía el prompt y verifica los cambios sobre la sección de Notas.
 
-- Ingresa el siguiente prompt en el Chat de Copilot:
+- Ingresa el siguiente prompt en el chat de Copilot:
 ```
 Genera una imagen que ilustre el contenido de la diapositiva 1.
 ```
@@ -75,13 +78,13 @@ Al explorar los resultados generados con Copilot y ChatGPT, se obtendrán result
 
 <img width="966" height="598" alt="P3_T1_5" src="https://github.com/user-attachments/assets/25986729-89ce-4d9c-89dc-48255e25582f" />
 
-### Tarea 2. Análisis de Datos Clínicos.
-Utilizar Copilot para desarrollar esta práctica.
+### Tarea 2. Análisis de datos clínicos
+Utiliza Copilot para desarrollar esta práctica.
 
-#### Paso 1. Obtener archivo Immunotherapy.xlsx
+**Paso 1.** Obtener archivo Immunotherapy.xlsx
 Descarga el archivo [Immunotherapy.xlsx](https://github.com/user-attachments/files/21909442/Immunotherapy.xlsx) y observa los datos que contiene.
 
-#### Paso 2. Análisis de datos.
+**Paso 2.** Análisis de datos.
 -Para conocer qué tipo de datos representa cada columna, ingresar el siguiente prompt en Copilot:
 ```
 Explica qué información representa cada columna del archivo "Immunotherapy.xlsx"
@@ -89,7 +92,7 @@ Explica qué información representa cada columna del archivo "Immunotherapy.xls
 
 - Enviar el prompt y revisar la respuesta generada de cada columna.
 
-#### Paso 3. Correlación entre dos variables.
+**Paso 3.** Correlación entre dos variables.
 
 Ingresar el siguiente prompt en Copilot:
 ```
@@ -98,7 +101,7 @@ Realiza un análisis para verificar si existe correlación entre edad y efectivi
 
 - Enviar el prompt, y analizar los resultados.
 
-#### Paso 4. Correlación entre todas las variables.
+**Paso 4.** Correlación entre todas las variables.
 Ingresar el siguiente prompt en Copilot:
 ```
 Realiza un análisis para verificar si existe correlación entre las variables.
@@ -113,22 +116,27 @@ Genera un mapa de calor de correlaciones entre las variables.
 
 - Enviar el prompt, y analizar los resultados.
 
-#### Paso 5. Generación de Informe.
+**Paso 5.** Generación de Informe.
 Ingresa el siguiente prompt en el Chat de Copilot:
 ```
-Genera un informe sobre este análisis, utiliza términos técnicos biológicos y estadísticos. Usa un tono formal y respetuoso. Integra una sección de Hipótesis, Obtención de muestras, Análisis de Resultados, Conclusión, Investigación a futuro, integra una nueva hipotesis a partir de los resultados obtenidos. Cita los papers mencionados en el archivo immunotherapy.xlsx.
+Genera un informe sobre este análisis, utiliza términos técnicos biológicos y estadísticos.
+Usa un tono formal y respetuoso.
+Integra una sección de hipótesis, obtención de muestras, análisis de resultados, conclusión, investigación a futuro;
+integra una nueva hipotesis a partir de los resultados obtenidos.
+Cita los papers mencionados en el archivo immunotherapy.xlsx.
 ```
 - Enviar el prompt, y verificar información del Informe.
 - Verifica que las citas se hayan agregado correctamente. 
 - Verifica existencia de las citas.
 
-#### Paso 6. Generación de PPT.
+**Paso 6.** Generación de PPT.
 
 - Ingresa el siguiente prompt en el Chat de Copilot:
 ```
-Genera una presentación que contenga la información del informe técnico e integra el mapa de calor y la gráfica de correlación entre edad y resultado de tratamiento.
+Genera una presentación que contenga la información del informe técnico e integra el mapa de calor
+y la gráfica de correlación entre edad y resultado de tratamiento.
 ```
-- Enviar el prompt, descargar ppt, y verificar información.
+- Enviar el prompt, descargar PPT y verificar información.
 
 #### Resultado esperado
 Se obtendrán resultados similares a los siguientes:
@@ -146,11 +154,12 @@ Se obtendrán resultados similares a los siguientes:
 ### Tarea 3. Análisis de Reunión en Teams.
 Utilizar Copilot para desarrollar esta práctica.
 
-#### Paso 1. Generación de contenido nuevo.
+**Paso 1.** Generación de contenido nuevo.
 - Pedir a Copilot que simule una videollamada en la que dos personas dialogan sobre algún tema de interés.
 - Ingresar el siguiente prompt en Copilot:
 ```
-Simula una reunión en teams en la que dos personas dialogan sobre el Bitcoin. La reunión debe tener una duración de 5 minutos o 1000 palabras. Dame el archivo escrito que simula la transcripción de esa videollamada. 
+Simula una reunión en teams en la que dos personas dialogan sobre el Bitcoin. La reunión debe tener una duración de 5 minutos o 1000 palabras.
+Dame el archivo escrito que simula la transcripción de esa videollamada. 
 Los personajes de la videollamada se llaman Pedro y Laura. 
 ```
 - Enviar el prompt y revisar información del archivo generado.
@@ -159,7 +168,7 @@ Los personajes de la videollamada se llaman Pedro y Laura.
   - Participants: Pedro, Laura, Jessica, Alberto
 - Guarda el archivo.
 
-#### Paso 2. Análisis de transcripción de videollamada.
+**Paso 2.** Análisis de transcripción de videollamada.
 -Para conocer información sobre el diálogo que se desarrolló durante la videollamada, comparte el guion a Copilot e ingresa el siguiente prompt:
 ```
 Genera un resumen de lo que se abordó en esta videollamada: Transcripcion_Reunion_Bitcoin.txt
@@ -167,7 +176,7 @@ Genera un resumen de lo que se abordó en esta videollamada: Transcripcion_Reuni
 
 - Enviar el prompt y comprobar que el resumen efectivamente aborde el contenido del archivo.
 
-#### Paso 3. Obtención de Keypoints.
+**Paso 3.** Obtención de Keypoints.
 
 -Ingresa el siguiente prompt:
 ```
@@ -176,7 +185,7 @@ Genera los keypoints de la videollamada.
 
 - Enviar el prompt, y comprobar los resultados.
 
-#### Paso 4. Análisis de asignación de actividades.
+**Paso 4.** Análisis de asignación de actividades.
 Ingresar el siguiente prompt en Copilot:
 ```
 ¿Durante la llamada se asignó la realización de alguna actividad a algún participante?
@@ -184,7 +193,7 @@ Ingresar el siguiente prompt en Copilot:
 
 - Enviar el prompt, y comprobar los resultados.
 
-#### Paso 5. Asistentes durante la videollamada.
+**Paso 5.** Asistentes durante la videollamada.
 Ingresar el siguiente prompt en Copilot:
 ```
 ¿Qué personas participaron o asistieron durante la videollamada?
@@ -192,7 +201,7 @@ Ingresar el siguiente prompt en Copilot:
 
 - Enviar el prompt, y comprobar los resultados.
 
-#### Paso 6. Extracción de información específica.
+**Paso 6.** Extracción de información específica.
 Ingresar el siguiente prompt en Copilot:
 ```
 ¿Durante la llamada se mencionó algo sobre el Bitcoin en México?
@@ -200,13 +209,15 @@ Ingresar el siguiente prompt en Copilot:
 
 - Enviar el prompt, y comprobar los resultados.
 
-#### Paso 7. Creación de correo electrónico de agradecimiento.
+**Paso 7.** Creación de correo electrónico de agradecimiento.
 Ingresar el siguiente prompt en Copilot:
 ```
-A partir de la información abordada en la videollamada, crea un correo electrónico para agradecer a los oradores por compartir su conocimiento con el equipo de Finanzas de la empresa. Agrega que deseas invitarlos a otra charla el próximo 6 de septiembre con el área de Contaduría, por lo que quedas pendiente de horarios propuesta. 
+A partir de la información abordada en la videollamada, crea un correo electrónico para agradecer a los oradores por compartir su conocimiento
+con el equipo de Finanzas de la empresa. Agrega que deseas invitarlos a otra charla el próximo 6 de septiembre con el área de Contaduría,
+por lo que quedas pendiente de su propuesta de horarios. 
 ```
 
-- Enviar el prompt, y verificar los resultados.
+- Envía el prompt y verificar los resultados.
 
 #### Resultado esperado
 Se obtendrán resultados similares a los siguientes:
@@ -228,26 +239,29 @@ Se obtendrán resultados similares a los siguientes:
 ### Tarea 4. Generación de Informe Estratégico.
 Utilizar Copilot para desarrollar esta práctica.
 
-Escenario: Eres un Director de TI y necesitas un informe que resuma el estado actual de la infraestructura tecnológica de la empresa para una reunión con la junta directiva. Tienes acceso a una presentación de powerpoint.
+Escenario: eres un Director de TI y necesitas un informe que resuma el estado actual de la infraestructura tecnológica de la empresa para una reunión con la junta directiva. Tienes acceso a una presentación de powerpoint.
 
-#### Paso 1. Obtener archivo Estado Actual de la Infraestructura.pptx
+**Paso 1.** Obtener archivo Estado Actual de la Infraestructura.pptx
 
 Descarga el archivo [Estado Actual de la Infraestructura.pptx](https://github.com/user-attachments/files/21910169/Estado.Actual.de.la.Infraestructura.pptx) y observa los datos que contiene.
 
-#### Paso 2. Generar Resumen a partir de una ppt.
+**Paso 2.** Generar Resumen a partir de una PPT.
 Ingresar el siguiente prompt en Copilot:
 ```
-Crea un resumen ejecutivo conciso y persuasivo de 150 palabras a partir de la siguiente presentación. El resumen debe ser para un público no técnico y debe enfatizar la importancia de la inversión propuesta para la estrategia a largo plazo de la empresa.
+Crea un resumen ejecutivo conciso y persuasivo de 150 palabras a partir de la siguiente presentación.
+El resumen debe ser para un público no técnico y debe enfatizar la importancia de la inversión propuesta para la estrategia a largo plazo de la empresa.
 ```
-- Enviar el prompt, y verificar los resultados.
+- Envía el prompt y verifica los resultados.
 
-#### Paso 3. Generar Preguntas y Respuestas
-Ingresar el siguiente prompt en Copilot:
+**Paso 3.** Generar preguntas y respuestas.
+Ingresa el siguiente prompt en Copilot.
 ```
-Voy a presentar esta información ante la junta directiva de la empresa, por lo que es muy importante convencer a los Directivos de la inversión en infraestructura. Estoy muy nervioso y no sé qué podrían preguntarme. Genera un conjunto de pares de preguntas y respuestas que me podría hacer la junta directiva.
+Voy a presentar esta información ante la junta directiva de la empresa, por lo que es muy importante convencer
+a los Directivos de la inversión en infraestructura. Estoy muy nervioso y no sé qué podrían preguntarme.
+Genera un conjunto de pares de preguntas y respuestas que me podría hacer la junta directiva.
 ```
 
-- Enviar el prompt, y verificar los resultados.
+- Envía el prompt y verifica los resultados.
 - Copilot también puede ayudarte a prepararte antes de tus presentaciones.
   
 #### Resultado esperado
