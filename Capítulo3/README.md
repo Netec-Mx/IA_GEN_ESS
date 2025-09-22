@@ -59,7 +59,7 @@ Debe sonar innovador y confiable.
 
 **Paso 2.** Copia el contenido generado por ChatGPT en Copilot, así como el siguiente prompt estratégico.
 ```
-[Coloca aquí el contenido obtenido en el Paso 1.]
+[Coloca aquí el contenido obtenido en el paso 1.]
 
 Convierte este eslogan y párrafo en una propuesta formal de campaña para ejecutivos.
 Incluye objetivos, público objetivo y un mensaje clave de confianza.
@@ -69,7 +69,7 @@ Incluye objetivos, público objetivo y un mensaje clave de confianza.
 
 **Paso 3.** Copia el contenido generado por Copilot en DeepSeek, así como el siguiente prompt analítico.
 ```
-[Coloca aquí el contenido obtenido en el Paso 2.]
+[Coloca aquí el contenido obtenido en el paso 2.]
 
 A partir de la información anterior, genera tres mensajes alternativos
 de campaña con énfasis en métricas de seguridad (por ejemplo, reducción de brechas,
@@ -103,7 +103,7 @@ Usa un tono inspirador y accesible.
 
 **Paso 2.** Copia el contenido generado por ChatGPT en Copilot, así como el siguiente prompt de optimización.
 ```
-[Coloca aquí el contenido obtenido en el Paso 1.]
+[Coloca aquí el contenido obtenido en el paso 1.]
 
 Convierte este eslogan y párrafo en una propuesta formal de campaña para ejecutivos.
 Incluye objetivos, público objetivo y un mensaje clave de confianza.
@@ -113,7 +113,7 @@ Incluye objetivos, público objetivo y un mensaje clave de confianza.
 
 **Paso 3.** Copia el contenido generado por Copilot en DeepSeek, así como el siguiente prompt creativo y analítico.
 ```
-[Coloca aquí el contenido obtenido en el Paso 2.]
+[Coloca aquí el contenido obtenido en el paso 2.]
 
 Agrega al artículo tres curiosidades basadas en datos reales o estudios
 recientes sobre el impacto de la IA en la productividad.
@@ -145,13 +145,15 @@ Analiza los siguientes comentarios de clientes y genera un informe de dos puntos
 2) Un análisis diagnóstico de los tres problemas más comunes que los clientes están reportando.
 --------------------------------------------------------
 Comentarios: ["El soporte técnico es excelente, pero la aplicación tiene muchos errores",
-"La interfaz del usuario es muy lenta, es frustrante usarla", "El nuevo módulo de reportes es muy útil, ¡gran trabajo!",
-"El equipo de soporte respondió rápidamente y resolvió mi problema", "No puedo acceder a mi cuenta, el inicio de sesión falla constantemente"]
+"La interfaz del usuario es muy lenta, es frustrante usarla",
+"El nuevo módulo de reportes es muy útil, ¡gran trabajo!",
+"El equipo de soporte respondió rápidamente y resolvió mi problema",
+"No puedo acceder a mi cuenta, el inicio de sesión falla constantemente"]
 ```
 
 - Envía el prompt y analiza la respuesta generada por cada servicio.
 
-**Paso 2.** Repite las intrucciones del paso anterio pero en DeepSeek.
+**Paso 2.** Repite las intrucciones del paso anterior pero en DeepSeek.
 
 **Paso 3.** Compara los resultados.
 - ¿Consideras que estos modelos son lo suficientemente buenos para hacer un análisis de sentimientos sin la necesidad de entrenar, crear o programar tu propia solución?
@@ -164,20 +166,23 @@ Los resultados generados con Copilot y DeepSeek serán similares a los siguiente
 
 <img width="440" height="895" alt="P2_T4_2" src="https://github.com/user-attachments/assets/66dd7441-9f44-4e8e-82ec-0fdbf0b03df5" />
 
-### Tarea 5. Análisis predictivo y generación de insights.
+### Tarea 5. Análisis predictivo y generación de insights
 Utiliza DeepSeek para desarrollar esta práctica.
 
 **Paso 1.** Generación de código para análisis predictivo.
-Ingresa el siguiente prompt en DeepSeek:
+Ingresa el siguiente prompt en DeepSeek.
 ```
-Actúa como un científico de datos. Utilizando la librería scikit-learn de Python, genera un script de análisis predictivo. El script debe cargar un archivo llamado 'churn_data.xlsx', realizar una separación de los datos en entrenamiento y prueba, entrenar un modelo de regresión logística para predecir la deserción de clientes y luego imprimir el 'accuracy score' del modelo. El código debe estar bien comentado.
+Actúa como un científico de datos. Utilizando la librería scikit-learn de Python, genera un script de análisis predictivo.
+El script debe cargar un archivo llamado 'churn_data.xlsx', realizar una separación de los datos en entrenamiento y prueba,
+entrenar un modelo de regresión logística para predecir la deserción de clientesy luego imprimir el 'accuracy score'
+del modelo. El código debe estar bien comentado.
 
 ```
 
 - Envía el prompt y analiza la respuesta generada.
 - ¿El código está lo suficientemente comentado?
 
-**Paso 2.** Ingresa el siguiente prompt en DeepSeek para la generación de código dearchivo para el análisis predictivo.
+**Paso 2.** Ingresa el siguiente prompt en DeepSeek para la generación de código de archivo para el análisis predictivo.
 ```
 Genera el archivo churn_data.xlsx que contiene la información necesaria para que este programa genere la respuesta esperada.
 ```
@@ -185,6 +190,7 @@ Genera el archivo churn_data.xlsx que contiene la información necesaria para qu
 - Envía el prompt y analiza la respuesta generada.
 
 **Paso 3.** Verifica.
+
 En caso de tener instalado Python:
 - Ejecuta el programa y verifica que se genere efectivamente el archivo 'churn_data.xlsx'.
 - Ejecuta el archivo que contiene el código para realizar el análisis predictivo.
@@ -192,22 +198,22 @@ En caso de tener instalado Python:
 
 En caso de *no* tener instalado Python:
 - Copia el contenido generado por DeepSeek (el que genera el archivo .xlsx) en ChatGPT.
-- Ingresa el siguiente prompt en ChatGPT:
+- Ingresa el siguiente prompt en ChatGPT.
 ```
-Actúa como terminal de python y ejecuta el siguiente programa:
+Actúa como terminal de Python y ejecuta el siguiente programa:
 
-[Coloca aquí el código generado por DeepSeek en el Paso 2.]
+[Coloca aquí el código generado por DeepSeek en el paso 2.]
 ```
 
-- Descarga el archivo churn_data.xlsx y verifica que efectivamente contenga la información solicitada.
+- Descarga el archivo `churn_data.xlsx` y verifica que efectivamente contenga la información solicitada.
 
-En ocasiones, ChatGPT genera el análisis por decisión propia. Si ese es tu caso, revisa ese análisis. En caso contrario, envía a ChatGPT el siguiente prompt:
+En ocasiones, ChatGPT genera el análisis por decisión propia. Si ese es el caso, revisa ese análisis. De lo contrario, envía a ChatGPT el siguiente prompt.
 ```
 Actúa como terminal de Python y ejecuta el siguiente programa con los datos del archivo churn_data.xlsx:
-[Coloca aquí el código generado por DeepSeek en el Paso 1.]
+[Coloca aquí el código generado por DeepSeek en el paso 1.]
 ```
 - Envía el prompt y analiza la respuesta generada.
-- ¿Conocías esta capacidad de ChatGPT de actuar como terminal de Python?
+- ¿Conocías la capacidad de ChatGPT de actuar como terminal de Python?
    
 #### Resultado esperado
 Los resultados generados con DeepSeek (y Python o ChatGPT) serán similares a los siguientes.
