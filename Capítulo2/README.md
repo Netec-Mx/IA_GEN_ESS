@@ -31,7 +31,7 @@ Al explorar prompts de razonamiento en problemas técnicos con ChatGPT y DeepSee
 
 **Paso 1.** Entrega un problema de optimización de TI para verificar respuestas tipo zero-shot.
 
-Ingresa el siguiente prompt en ChatGPT y DeepSeek:
+Ingresa el siguiente prompt en ChatGPT y DeepSeek.
 
 ```
 Tienes un servidor con 8 GB de RAM y 4 CPU. Se ejecutan tres procesos A, B y C con consumo distinto.
@@ -139,7 +139,7 @@ Ahora, diseña la estrategia para migrar servicios a la nube en 6 meses en este 
 - ¿Qué tanto ayudaron los ejemplos (few-shots) a guiar las respuestas?
 
 #### Resultado esperado
-Los resultados generados podrían parecerse a los siguientes:
+Los resultados generados podrían parecerse a los siguientes.
 
 <img width="403" height="934" alt="P1_T2_2" src="https://github.com/user-attachments/assets/cc5eb046-ed3c-448c-ac3e-a7c97cd33414" />
 
