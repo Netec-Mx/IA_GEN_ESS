@@ -8,7 +8,7 @@ Al finalizar la práctica, serás capaz de:
 - 60 minutos.
 
 ## Tabla de ayuda
-Para que puedas replicar las prácticas, se recomienda crear una cuenta **gratuita** en las siguientes plataformas:
+Para que puedas replicar las prácticas, se recomienda crear una cuenta **gratuita** en las siguientes plataformas.
 
 | Sitio web | Enlace |
 | --- | --- | 
