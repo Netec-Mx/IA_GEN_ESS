@@ -174,7 +174,7 @@ Ingresa el siguiente prompt en DeepSeek.
 ```
 Actúa como un científico de datos. Utilizando la librería scikit-learn de Python, genera un script de análisis predictivo.
 El script debe cargar un archivo llamado 'churn_data.xlsx', realizar una separación de los datos en entrenamiento y prueba,
-entrenar un modelo de regresión logística para predecir la deserción de clientesy luego imprimir el 'accuracy score'
+entrenar un modelo de regresión logística para predecir la deserción de clientes y luego imprimir el 'accuracy score'
 del modelo. El código debe estar bien comentado.
 
 ```
@@ -192,7 +192,7 @@ Genera el archivo churn_data.xlsx que contiene la información necesaria para qu
 **Paso 3.** Verifica.
 
 En caso de tener instalado Python:
-- Ejecuta el programa y verifica que se genere efectivamente el archivo 'churn_data.xlsx'.
+- Ejecuta el programa y verifica que se genere efectivamente el archivo `churn_data.xlsx`.
 - Ejecuta el archivo que contiene el código para realizar el análisis predictivo.
 - Analiza los resultados.
 
