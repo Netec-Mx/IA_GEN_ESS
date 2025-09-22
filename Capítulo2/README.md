@@ -34,7 +34,7 @@ Ingresa el siguiente prompt en ChatGPT y DeepSeek:
 
 ```
 Tienes un servidor con 8 GB de RAM y 4 CPU. Se ejecutan tres procesos A, B y C con consumo distinto.
-¿Cómo distribuirías recursos para maximizar throughput?
+¿Cómo distribuirías los recursos para maximizar el throughput?
 ```
 
 - Envía el prompt y analiza la respuesta generada por cada servicio.
