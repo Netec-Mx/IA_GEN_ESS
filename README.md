@@ -1,6 +1,6 @@
 <img src="images/neteclogo.png" alt="logo" width="300"/>
 
-# Inteligencia artificial generativa essentials
+# Inteligencia Artificial Generativa Essentials
 
 ## Plataforma de laboratorios
 
