@@ -65,6 +65,8 @@ Respuestas con chain-of-thought en ChatGPT y DeepSeek
 
 <img width="342" height="1063" alt="P1_T1_2" src="https://github.com/user-attachments/assets/908b07e9-cb63-4585-88b7-7583f3a1f265" />
 
+<br>
+
 <img width="427" height="1051" alt="P1_T1_3" src="https://github.com/user-attachments/assets/c43a9747-ef81-48ef-99ef-ef0580a58fcb" />
 
 ### Tarea 2. Planeación estratégica, implementación con few-shot
