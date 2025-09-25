@@ -121,7 +121,7 @@ recientes sobre el impacto de la IA en la productividad.
 
 - Envía el prompt y analiza la respuesta generada.
 - ¿Qué características podrías definir de cada servicio?
-- ¿Cada servicio cumplió de manera satistactoria con las solicitudes?
+- ¿Cada servicio cumplió de manera satisfactoria con las solicitudes?
   
 #### Resultado esperado
 Los resultados generados con ChatGPT, Copilot y DeepSeek serán similares a los siguientes.
@@ -153,7 +153,7 @@ Comentarios: ["El soporte técnico es excelente, pero la aplicación tiene mucho
 
 - Envía el prompt y analiza la respuesta generada por cada servicio.
 
-**Paso 2.** Repite las intrucciones del paso anterior pero en DeepSeek.
+**Paso 2.** Repite las instrucciones del paso anterior pero en DeepSeek.
 
 **Paso 3.** Compara los resultados.
 - ¿Consideras que estos modelos son lo suficientemente buenos para hacer un análisis de sentimientos sin la necesidad de entrenar, crear o programar tu propia solución?
@@ -174,7 +174,7 @@ Ingresa el siguiente prompt en DeepSeek.
 ```
 Actúa como un científico de datos. Utilizando la librería scikit-learn de Python, genera un script de análisis predictivo.
 El script debe cargar un archivo llamado 'churn_data.xlsx', realizar una separación de los datos en entrenamiento y prueba,
-entrenar un modelo de regresión logística para predecir la deserción de clientes y luego imprimir el 'accuracy score'
+entrenar un modelo de regresión logística para predecir la deserción de clientes y, luego, imprimir el 'accuracy score'
 del modelo. El código debe estar bien comentado.
 
 ```
