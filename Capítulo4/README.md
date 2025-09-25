@@ -140,14 +140,15 @@ What are the best local dishes to try in Thailand?
 #### Resultado esperado
 Al explorar los resultados generados con Copilot y ChatGPT, se obtendrán resultados similares a los siguientes.
 
+
 <img width="437" height="616" alt="P4_T1_7 (1)" src="https://github.com/user-attachments/assets/e9178840-0513-4882-8ae7-af1b8dc540b4" />
 
-
+<br>
 <img width="446" height="635" alt="P4_T1_7 (2)" src="https://github.com/user-attachments/assets/3e593126-69c2-48eb-9c51-9d2c9d1df876" />
 
-
+<br>
 <img width="415" height="405" alt="P4_T1_7 (3)" src="https://github.com/user-attachments/assets/06b8801b-d679-47f9-bb01-4aa3083822e7" />
 
-
+<br>
 <img width="624" height="654" alt="P4_T1_7 (4)" src="https://github.com/user-attachments/assets/4050e8d2-9aea-41be-b830-ef3db2807696" />
 
