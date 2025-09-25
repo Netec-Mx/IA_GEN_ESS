@@ -8,7 +8,7 @@ Te damos la bienvenida a la **plataforma de laboratorios** del curso **Nombre de
 
 ## Lista de laboratorios
 
-Cada uno de estos laboratorios está diseñados para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
+Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
 
 ### [Práctica 1. Optimización de prompts según el contexto](./Capítulo2/README.md)
 - **Descripción**: Aplicar los fundamentos de la ingeniería de prompts e identificar las diferencias entre zero-shot, few-shot y chain-of-thought.
