@@ -47,7 +47,7 @@ Tienes un servidor con 8 GB de RAM y 4 CPU. Se ejecutan tres procesos A, B y C c
 Ingresa el siguiente prompt en ChatGPT y DeepSeek.
 
 ```
-Tienes un servidor con 8 GB de RAM y 4 CPUs. Se ejecutan tres procesos A, B y C con consumo distinto.
+Tienes un servidor con 8 GB de RAM y 4 CPU. Se ejecutan tres procesos A, B y C con consumo distinto.
 ¿Cómo distribuirías los recursos para maximizar el throughput?
 Resuelve paso a paso, primero analiza el consumo, luego distribuye recursos;
 finalmente, explica sus ventajas y limitaciones.
@@ -249,7 +249,7 @@ Se espera obtener la cadena de pensamiento de cada servicio (Copilot, ChatGPT y 
 
 ### Tarea 4. Análisis de errores y advertencias en archivo de Logs
 
-Con ayuda de ChatGPT y DeepSeek, crea una tabla que resuma los errores que hay en el archivo de logs, un ejemplo es la siguiente imagen. 
+Con ayuda de ChatGPT y DeepSeek, crea una tabla que resuma los errores que hay en el archivo de logs. Un ejemplo es la siguiente imagen. 
 
 <img width="404" height="271" alt="p1_1" src="https://github.com/user-attachments/assets/5e7d4bca-0c5d-47b7-b17e-1caa3af2c2ea" />
 
