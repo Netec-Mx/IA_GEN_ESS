@@ -31,6 +31,7 @@ Al explorar prompts de razonamiento en problemas técnicos con ChatGPT y DeepSee
 
 **Paso 1.** Entrega un problema de optimización de TI para verificar respuestas tipo zero-shot.
 
+
 Ingresa el siguiente prompt en ChatGPT y DeepSeek.
 
 ```
@@ -41,6 +42,7 @@ Tienes un servidor con 8 GB de RAM y 4 CPU. Se ejecutan tres procesos A, B y C c
 - Envía el prompt y analiza la respuesta generada por cada servicio.
 
 **Paso 2.** Implementa chain-of-thought.
+
 
 Ingresa el siguiente prompt en ChatGPT y DeepSeek.
 
@@ -54,6 +56,7 @@ finalmente, explica sus ventajas y limitaciones.
 - Envía el prompt y analiza la respuesta generada por cada servicio.
 
 **Paso 3.** Compara los resultados obtenidos con ChatGPT y DeepSeek.
+
 - ¿Qué mejoras se obtuvieron con chain-of-thought?
 - ¿Cuál de los modelos razonó con mayor detalle?
 
@@ -73,6 +76,7 @@ Tu equipo debe diseñar una estrategia para migrar servicios a la nube en 6 mese
 
 
 **Paso 1.** Entrega el prompt que define la necesidad del equipo.
+
 Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek.
 ```
 Diseña una estrategia para migrar servicios a la nube en 6 meses.
@@ -81,6 +85,7 @@ Diseña una estrategia para migrar servicios a la nube en 6 meses.
 Envía el prompt y analiza la respuesta generada por cada servicio (nivel de detalle y estilo).
 
 **Paso 2.** Entrega el prompt que define la necesidad del equipo implementando ejemplos.
+
 Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek.
 
 ```
@@ -101,6 +106,7 @@ en este estilo ejecutivo para crear una presentación de PowerPoint.
 - Envía el prompt y analiza la respuesta generada por cada servicio (formato, nivel de detalle y estilo).
 
 **Paso 3.** Entrega el prompt que define la necesidad del equipo implementando ejemplos.
+
 Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek.
 ```
 Ejemplo 1 (salida esperada)
@@ -117,6 +123,7 @@ en este estilo técnico para crear un documento técnico.
 - Envía el prompt y analiza la respuesta generada por cada servicio (formato, nivel de detalle y estilo).
 
 **Paso 4.** Entrega el prompt que define la necesidad del equipo implementando ejemplos.
+
 Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek.
 ```
 Ejemplo 1 (salida esperada)
@@ -213,6 +220,7 @@ dfi.export(df, "comparativa_modelos.png", max_cols=-1)
 ```
 
 **Paso 1.** Entrega el prompt de manera directa.
+
 Ingresa el siguiente prompt en ChatGPT, Copilot y DeepSeek.
 ```
 Corrige el error en este código Python.
