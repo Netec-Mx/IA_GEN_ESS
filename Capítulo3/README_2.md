@@ -7,7 +7,6 @@ Al finalizar la práctica, serás capaz de:
 ## Duración aproximada
 - 30 minutos.
 
-## Objetivo visual
 
 ## Tabla de ayuda
 Para que puedas replicar las prácticas, se recomienda crear una cuenta **gratuita** en las siguientes plataformas.
