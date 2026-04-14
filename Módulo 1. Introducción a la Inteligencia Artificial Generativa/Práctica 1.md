@@ -23,7 +23,7 @@ Sigue los pasos a continuación para completar cada tarea que conforma la práct
 3. Inicia sesión con tu cuenta personal de Amazon, Apple o Google.
     - Define tu nombre de usuario.
     - Define la región en la que te ubicas.
-    <img src="images/M1/M1P1_1.png" alt="logo"/>
+    <img src="../images/M1/M1P1_1.png" alt="logo"/>
 
 4. En el menú Inicio, desplázate hacia abajo hasta encontrar la sección "Apps de nuestra comunidad" y selecciona una aplicación de algún área que te resulte interesante (Carrera y trabajo, Aprendizaje y creatividad o Estilo de vida y bienestar).
 5. Ejecuta la aplicación ingresando los prompts que se te soliciten.
@@ -45,31 +45,31 @@ Sigue los pasos a continuación para completar cada tarea que conforma la práct
 
 ### Parte 2. Creación de tu primera app con IA
 10. En el menú Inicio, haz clic en "Crear una App".
-    <img src="images/M1/M1P1_3.png" alt="logo"/>
+    <img src="../images/M1/M1P1_3.png" alt="logo"/>
 
 11. Selecciona un prompt ejemplo o empieza desde cero.
-    <img src="images/M1/M1P1_4.png" alt="logo"/>
+    <img src="../images/M1/M1P1_4.png" alt="logo"/>
 
 12. Configura al menos un componente de entrada, es decir, un campo de texto para que el usuario escriba información.
-    <img src="images/M1/M1P1_5.png" alt="logo"/>
+    <img src="../images/M1/M1P1_5.png" alt="logo"/>
 
 13. Agrega al menos un componente de salida (IA):
     - Configura una instrucción simple, por ejemplo:
-    <img src="images/M1/M1P1_6.png" alt="logo"/>
+    <img src="../images/M1/M1P1_6.png" alt="logo"/>
 
 14. Asigna un título a tu app.
-    <img src="images/M1/M1P1_7.png" alt="logo"/>
+    <img src="../images/M1/M1P1_7.png" alt="logo"/>
 
 15. Ejecuta tu aplicación:
-    <img src="images/M1/M1P1_2.png" alt="logo"/>
+    <img src="../images/M1/M1P1_2.png" alt="logo"/>
 
     - Ingresa diferentes textos
-    <img src="images/M1/M1P1_8.png" alt="logo"/>
+    <img src="../images/M1/M1P1_8.png" alt="logo"/>
 
     - Observa cómo responde
-    <img src="images/M1/M1P1_9.png" alt="logo"/>
-    <img src="images/M1/M1P1_10.png" alt="logo"/>
-    <img src="images/M1/M1P1_11.png" alt="logo"/>
+    <img src="../images/M1/M1P1_9.png" alt="logo"/>
+    <img src="../images/M1/M1P1_10.png" alt="logo"/>
+    <img src="../images/M1/M1P1_11.png" alt="logo"/>
 
 ### Reflexión 
 Reflexiona y responde:

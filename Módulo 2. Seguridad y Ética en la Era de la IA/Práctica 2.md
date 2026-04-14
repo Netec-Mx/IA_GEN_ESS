@@ -21,9 +21,9 @@ Sigue los pasos a continuación para completar cada tarea que conforma la práct
 ### Parte 1. Confiabilidad en la información
 Formas parte de un equipo de análisis dentro de una empresa de logística. La Dirección General recibió un reporte operativo con resultados extraordinariamente positivos y te ha pedido validarlo antes de usarlo para la toma de decisiones estratégicas y su posible presentación ante el consejo directivo.
 
-1. Descarga el archivo [reporte_operativo.docx](images/M2/P2/reporte_operativo.docx)
+1. Descarga el archivo [reporte_operativo.docx](../images/M2/P2/reporte_operativo.docx)
 2. Ingresa a ChatGPT y selecciona el modelo "Instant: Para chats cotidianos".
-    <img src="images/M2/P2/M2P2_1.png" alt="logo"/>
+    <img src="../images/M2/P2/M2P2_1.png" alt="logo"/>
 3. Escribe el siguiente prompt e integra el archivo reporte_operativo.docx:
     ```
     Analiza este reporte y dame conclusiones clave para la dirección.

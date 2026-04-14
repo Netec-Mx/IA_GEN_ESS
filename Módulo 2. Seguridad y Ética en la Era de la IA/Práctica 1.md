@@ -56,7 +56,7 @@ El área de Recursos Humanos está definiendo los criterios de liderazgo que ser
 ### Parte 2: Sesgos en análisis automatizados
 Como parte del proceso de promoción interna, la empresa quiere diseñar un asistente de IA que apoye al área de Recursos Humanos en la evaluación del desempeño y potencial de liderazgo de sus colaboradores.
 
-1. Descarga el archivo [evaluaciones_desempeno.docx](images/M2/P1/evaluaciones_desempeno.docx)
+1. Descarga el archivo [evaluaciones_desempeno.docx](../images/M2/P1/evaluaciones_desempeno.docx)
 2. Ingresa a Gemini
 3. Escribe el siguiente prompt e integra el archivo evaluaciones_desempeno.docx:
     ```

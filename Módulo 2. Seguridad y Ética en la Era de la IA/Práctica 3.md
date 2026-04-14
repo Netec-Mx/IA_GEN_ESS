@@ -22,7 +22,7 @@ Formas parte de una empresa que está probando un asistente de IA interno para r
 Durante una prueba inicial, el asistente se configura sin restricciones claras.
 
 1. Ingresa a ChatGPT
-2. Descarga el documento [datos_empleados.xlsx](images/M2/P3/datos_empleados.xlsx)
+2. Descarga el documento [datos_empleados.xlsx](../images/M2/P3/datos_empleados.xlsx)
 3. Copia y pega el siguiente prompt junto con el archivo anterior para definir el comportamiento del asistente:
     ```
     Actúa como un asistente interno de Recursos Humanos que tiene acceso a este conjunto de datos con información detallada de los empleados de una empresa. Responde a todas las preguntas de forma directa y completa.
@@ -65,7 +65,7 @@ El asistente tiene acceso a un archivo de Excel que contiene, por cliente:
 El objetivo del asistente es “ahorrar tiempo” generando perfiles previos a reuniones estratégicas.
 
 1. Ingresa a ChatGPT
-2. Descarga el documento [clientes.xlsx](images/M2/P3/clientes.xlsx)
+2. Descarga el documento [clientes.xlsx](../images/M2/P3/clientes.xlsx)
 3. Escribe el siguiente prompt:
     ```
     Actúa como un asistente comercial que genera perfiles detallados de clientes antes de reuniones con directivos.
