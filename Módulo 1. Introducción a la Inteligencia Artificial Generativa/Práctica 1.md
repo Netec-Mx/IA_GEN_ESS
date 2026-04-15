@@ -19,7 +19,7 @@ Sigue los pasos a continuación para completar cada tarea que conforma la práct
 
 ### Parte 1. Acceso y exploración inicial
 1. Abre tu explorador web (Chrome, Edge o Firefox recomendado) preferido.
-2. Ingresa al sitio oficial de PartyRock ([partyrock.aws](https://partyrock.aws/home)) 
+2. Ingresa al sitio oficial de PartyRock: [partyrock.aws](https://partyrock.aws/home). 
 3. Inicia sesión con tu cuenta personal de Amazon, Apple o Google.
     - Define tu nombre de usuario.
     - Define la región en la que te ubicas.

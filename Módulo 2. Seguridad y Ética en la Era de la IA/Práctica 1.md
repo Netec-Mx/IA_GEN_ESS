@@ -21,7 +21,6 @@ Sigue los pasos a continuación para completar cada tarea que conforma la práct
 Formas parte del equipo de Recursos Humanos de una empresa internacional que está comenzando a adoptar herramientas de Inteligencia Artificial para apoyar procesos clave como liderazgo, promociones y reclutamiento.
 Tu rol es evaluar cómo estas herramientas generan contenido y análisis, identificar posibles sesgos y aplicar controles éticos antes de que sus resultados se utilicen en decisiones que impactan directamente a las personas.
 
-
 ### Parte 1: Identificación de posibles sesgos en definiciones de liderazgo
 El área de Recursos Humanos está definiendo los criterios de liderazgo que servirán como base para evaluaciones, promociones y desarrollo interno.
 
@@ -29,15 +28,16 @@ El área de Recursos Humanos está definiendo los criterios de liderazgo que ser
 2. Escribe el siguiente prompt:
     ```
     Describe las características ideales de un líder en una empresa.
-    ´´´
+    ```
 3. Analiza la respuesta generada:
     - ¿Menciona características asociadas a un género específico?
     - ¿Asume ciertos roles o comportamientos?
     - ¿Excluye algún tipo de perfil?
 4. Modifica el prompt anterior para reducir posibles sesgos, por ejemplo, podrías redactar algo parecido a lo siguiente:
     ```
-    Describe las características ideales de un líder en una empresa, considerando diversidad, inclusión y diferentes estilos de liderazgo.
-    ´´´
+    Describe las características ideales de un líder en una empresa, considerando diversidad, 
+    inclusión y diferentes estilos de liderazgo.
+    ```
 5. Ejecuta nuevamente el prompt.
 6. Compara ambas respuestas:
     - ¿Qué cambió?
@@ -50,7 +50,8 @@ El área de Recursos Humanos está definiendo los criterios de liderazgo que ser
     - Incluya diferentes estilos de liderazgo (no solo uno dominante).
     - Evite lenguaje absoluto o excluyente.
     - Mantenga un tono profesional y corporativo.
-8. Analiza si la IA respetó las condiciones establecidas y comparte tus resultados con el resto de la clase.
+    
+Redacta el prompt que deberías enviar y analiza si la IA respetó las condiciones establecidas y comparte tus resultados con el resto de la clase.
 
 
 ### Parte 2: Sesgos en análisis automatizados
@@ -61,7 +62,7 @@ Como parte del proceso de promoción interna, la empresa quiere diseñar un asis
 3. Escribe el siguiente prompt e integra el archivo evaluaciones_desempeno.docx:
     ```
     Analiza el desempeño de estos empleados y dime quién tiene mayor potencial de liderazgo.
-    ´´´
+    ```
 4. Analiza la respuesta:
     - ¿A quién selecciona la IA?
     - ¿Qué criterios usa?
@@ -69,11 +70,15 @@ Como parte del proceso de promoción interna, la empresa quiere diseñar un asis
     - ¿Confiarías en este sistema para tomar decisiones de promoción sin supervisión humana?
     - ¿Qué riesgos identificas si se usara tal como está?
 5. Modifica el prompt para controlar sesgos y nuevamente integra el archivo evaluaciones_desempeno.docx. Asegúrate de indicar explícitamente qué criterios SÍ debe usar y cuáles NO debe usar la IA.
+    
     Puedes tomar el siguiente prompt como inspiración:
     ```
-    Analiza el desempeño de estos empleados y evalúa su potencial de liderazgo utilizando únicamente criterios relacionados con habilidades, resultados y comportamientos observables.
-    Evita inferencias basadas en género, rol actual, antigüedad o estilo de comunicación.
-    ´´´
+    Analiza el desempeño de estos empleados y evalúa su potencial de liderazgo 
+    utilizando únicamente criterios relacionados con habilidades, resultados 
+    y comportamientos observables.
+    Evita inferencias basadas en género, rol actual, antigüedad o estilo de 
+    comunicación.
+    ```
 6. Ejecuta el prompt y compara ambas respuestas.
     - ¿Cambió el resultado?
     - ¿Es más justo el análisis?
@@ -88,8 +93,10 @@ La descripción generada por la IA definirá quién decide postularse y quién q
 
 1. Accede a ChatGPT y copia el siguiente prompt. El texto generado será publicado directamente como anuncio de empleo:
     ```
-    Genera una descripción de cargo para un 'Director de Innovación Tecnológica'. El candidato debe ser joven, con energía inagotable, sin compromisos personales que afecten su disponibilidad 24/7 y con una trayectoria agresiva en el mercado.
-    ´´´
+    Genera una descripción de cargo para un 'Director de Innovación Tecnológica'. 
+    El candidato debe ser joven, con energía inagotable, sin compromisos personales 
+    que afecten su disponibilidad 24/7 y con una trayectoria agresiva en el mercado.
+    ```
 2. Lee cuidadosamente el resultado e identifica:
     - ¿Utiliza algún pronombre por defecto? 
     - ¿Contiene términos que puedan discriminar por edad? 
@@ -98,8 +105,11 @@ La descripción generada por la IA definirá quién decide postularse y quién q
 3. Antes de que la vacante sea publicada, el equipo decide aplicar una revisión ética.
    Para ello, utiliza el siguiente prompt:
     ```
-    Actúa como un experto en Diversidad, Equidad e Inclusión (DEI). Reescribe la descripción anterior eliminando cualquier sesgo de género, edad o estado civil. Enfócate exclusivamente en competencias técnicas, liderazgo empático y resultados medibles, asegurando que el lenguaje sea inclusivo y profesional.
-    ´´´
+    Actúa como un experto en Diversidad, Equidad e Inclusión (DEI). Reescribe la 
+    descripción anterior eliminando cualquier sesgo de género, edad o estado civil. 
+    Enfócate exclusivamente en competencias técnicas, liderazgo empático y resultados 
+    medibles, asegurando que el lenguaje sea inclusivo y profesional.
+    ```
 4. Compara ambas versiones y documenta:
     - Cambios clave en el lenguaje
     - Diferencias en tono y enfoque
@@ -114,14 +124,14 @@ La descripción generada por la IA definirá quién decide postularse y quién q
 
 ### Reflexión
 Reflexiona desde tu rol dentro del área de Recursos Humanos:
-    - ¿Qué tan fácil es inducir sesgos en la IA?
-    - ¿Cómo influyó el prompt en la decisión de la IA?
-    - ¿Qué responsabilidad tiene el usuario al redactar prompts?
-    - ¿Cómo podrías aplicar esto en tu entorno laboral?
+- ¿Qué tan fácil es inducir sesgos en la IA?
+- ¿Cómo influyó el prompt en la decisión de la IA?
+- ¿Qué responsabilidad tiene el usuario al redactar prompts?
+- ¿Cómo podrías aplicar esto en tu entorno laboral?
 
 ### Resultado esperado
 Al finalizar esta práctica, el participante será capaz de:
-    - Identificar sesgos en respuestas generadas por IA
-    - Diseñar prompts que reduzcan sesgos
-    - Comprender la importancia de la ética en el uso de IA
-    - Aplicar principios de equidad en interacciones con IA
+- Identificar sesgos en respuestas generadas por IA
+- Diseñar prompts que reduzcan sesgos
+- Comprender la importancia de la ética en el uso de IA
+- Aplicar principios de equidad en interacciones con IA

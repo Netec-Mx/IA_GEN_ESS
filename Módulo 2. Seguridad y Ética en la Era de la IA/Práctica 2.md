@@ -23,11 +23,13 @@ Formas parte de un equipo de análisis dentro de una empresa de logística. La D
 
 1. Descarga el archivo [reporte_operativo.docx](../images/M2/P2/reporte_operativo.docx)
 2. Ingresa a ChatGPT y selecciona el modelo "Instant: Para chats cotidianos".
-    <img src="../images/M2/P2/M2P2_1.png" alt="logo"/>
+
+    <img src="../images/M2/P2/M2_P2_1.png" alt="logo"/>
+
 3. Escribe el siguiente prompt e integra el archivo reporte_operativo.docx:
     ```
     Analiza este reporte y dame conclusiones clave para la dirección.
-    ´´´
+    ```
 4. Analiza la respuesta:
     - ¿La IA cuestiona los datos o da por hecho que son correctos?
     - ¿Presenta conclusiones sin validar la plausibilidad de la información?
@@ -42,14 +44,16 @@ Formas parte de un equipo de análisis dentro de una empresa de logística. La D
     - ¿Los valores son creíbles?
 8. Regresa a ChatGPT y escribe:
     ```
-    Analiza este reporte, identifica posibles inconsistencias y cuestiona los datos si parecen poco realistas. Además, realiza un análisis profundo para verificar si la información mencionada tiene sentido lógico.
-    ´´´
+    Analiza este reporte, identifica posibles inconsistencias y cuestiona los datos 
+    si parecen poco realistas. Además, realiza un análisis profundo para verificar 
+    si la información mencionada tiene sentido lógico.
+    ```
 9. Ejecuta nuevamente y analiza las respuestas.
 10. Toma una postura como analista responsable:
     - ¿Confiarías en este reporte para presentarlo a la dirección?
     - ¿Qué datos requerirías verificar antes de avalarlo?
     - ¿Qué riesgos existirían si este reporte se acepta sin cuestionarlo?
-11. ¿Qué respuestas crees que obtendrías si ejecutas estas instrucciones en el modelo "Thinking: Para preguntas complejas"?
+11. ¿Qué respuestas obtendrías si ejecutas estas instrucciones en el modelo "Thinking: Para preguntas complejas"?
 
 
 ### Parte 2. Mitigación de riesgos operativos mediante verificación lógica
@@ -62,24 +66,35 @@ Estos reportes, una vez aprobados internamente, se comparten con líderes direct
     - Según el manual de operaciones, el tiempo de respuesta para clientes Gold es de 2 horas.
     - El reporte de infraestructura indica que el servidor tarda 3 horas en procesar cada solicitud Gold.
     - La política de marketing comunica que los clientes Gold reciben respuestas en tiempo real (menos de 5 minutos).
+
     El equipo sospecha que esta información no es consistente y que publicarla sin validación podría generar errores operativos, decisiones incorrectas o pérdida de confianza en los reportes ejecutivos.
 
 2. Ingresa a Gemini y redacta un prompt para solicitar a la IA que audite la información anterior antes de que sea compartida con los líderes ejecutivos.
+
     Como referencia, puedes usar un prompt similar al siguiente:
     ```
     [Integra la información del paso anterior.]
-    Analiza la información proporcionada y aplica razonamiento lógico paso a paso para detectar inconsistencias entre las distintas fuentes. Identifica qué datos entran en conflicto, explica por qué no pueden considerarse válidos al mismo tiempo y evalúa el riesgo operativo de compartir esta información sin validación. No inventes una respuesta oficial ni resuelvas la contradicción; limita tu análisis a la detección de inconsistencias y al nivel de riesgo que representan para la toma de decisiones.
+    Analiza la información proporcionada y aplica razonamiento lógico paso a paso 
+    para detectar inconsistencias entre las distintas fuentes. Identifica qué datos 
+    entran en conflicto, explica por qué no pueden considerarse válidos al mismo tiempo 
+    y evalúa el riesgo operativo de compartir esta información sin validación. No inventes
+     una respuesta oficial ni resuelvas la contradicción; limita tu análisis a la detección
+      de inconsistencias y al nivel de riesgo que representan para la toma de decisiones.
     ```
-3. Ejecuta tu prompt en Gemini y revisa cuidadosamente la respuesta obtenida.
+3. Ejecuta tu prompt y revisa cuidadosamente la respuesta obtenida.
 4. Analiza el resultado y responde:
     - ¿La IA detectó todas las contradicciones?
     - ¿Explicó claramente por qué la información es inconsistente?
     - ¿Intentó imponer una respuesta como si fuera la correcta?
     - ¿Admitió que no es posible confirmar un dato oficial sin validación adicional?
 5. Ahora solicita a la IA que proponga un protocolo breve de auditoría previa a la publicación de reportes operativos. 
+
     Puedes inspirarte en el siguiente prompt:
     ```
-    Diseña un protocolo breve de 3 pasos que un empleado de Operaciones debe seguir antes de publicar cualquier dato generado o resumido por una IA sobre métricas de servicio al cliente. El protocolo debe ayudar a detectar contradicciones, validar fuentes y reducir riesgos operativos.
+    Diseña un protocolo breve de 3 pasos que un empleado de Operaciones debe 
+    seguir antes de publicar cualquier dato generado o resumido por una IA sobre
+    métricas de servicio al cliente. El protocolo debe ayudar a detectar contradicciones, 
+    validar fuentes y reducir riesgos operativos.
     ```
 6. Ejecuta el prompt y revisa la propuesta generada.
 7. Con base en la respuesta de la IA, identifica si el protocolo incluye elementos como:
@@ -102,7 +117,7 @@ Estos reportes, una vez aprobados internamente, se comparten con líderes direct
 
 ### Resultado esperado
 Al finalizar esta práctica, el participante será capaz de:
-    - Detectar alucinaciones o errores en información generada por IA
-    - Aplicar pensamiento crítico en el análisis de datos
-    - Validar información en contextos empresariales
-    - Diseñar protocolos de auditoría para reducir riesgos antes de la toma de decisiones
+- Detectar alucinaciones o errores en información generada por IA
+- Aplicar pensamiento crítico en el análisis de datos
+- Validar información en contextos empresariales
+- Diseñar protocolos de auditoría para reducir riesgos antes de la toma de decisiones
