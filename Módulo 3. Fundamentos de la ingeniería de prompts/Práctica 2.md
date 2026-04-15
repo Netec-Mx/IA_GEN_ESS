@@ -42,7 +42,8 @@ Antes de utilizar estos resultados para la toma de decisiones, es necesario eval
 6. Ahora utiliza un prompt más completo, considerando los elementos básicos de un buen prompt (contexto + instrucción + formato de salida), por ejemplo:
     ```
     Analiza la situación financiera de una empresa mediana del sector retail en [nombre de tu País].
-    La empresa tiene 10 años de operación, ingresos anuales aproximados de 2 millones de dólares y busca identificar riesgos financieros generales.
+    La empresa tiene 10 años de operación, ingresos anuales aproximados de 2 millones de dólares y busca 
+    identificar riesgos financieros generales.
     Elabora un análisis de alto nivel, sin usar datos confidenciales ni hacer suposiciones no fundamentadas.
     ```
 7. Revisa la respuesta y analiza:
@@ -112,7 +113,8 @@ El objetivo no es obtener un cálculo perfecto, sino evaluar la confiabilidad de
     - La empresa tiene más de 10 años de operación  
     - Los datos corresponden al último año fiscal  
     El objetivo es evaluar si el desempeño financiero es saludable en términos generales.
-    Realiza un análisis de alto nivel, sin asumir información adicional como crecimiento, deuda o comparaciones con años anteriores.
+    Realiza un análisis de alto nivel, sin asumir información adicional como crecimiento, deuda o 
+    comparaciones con años anteriores.
     Si no hay información suficiente para alguna conclusión, indícalo claramente.
     ```
 6. Compara las tres respuestas obtenidas (sin contexto, con contexto mínimo y con contexto estructurado) y responde:
