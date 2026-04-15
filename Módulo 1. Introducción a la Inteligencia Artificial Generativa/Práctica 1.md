@@ -44,42 +44,49 @@ Sigue los pasos a continuación para completar cada tarea que conforma la práct
         - ¿Por qué?
 
 ### Parte 2. Creación de tu primera app con IA
-10. En el menú Inicio, haz clic en "Crear una App".
+1. En el menú Inicio, haz clic en "Crear una App".
+
     <img src="../images/M1/M1P1_3.png" alt="logo"/>
 
-11. Selecciona un prompt ejemplo o empieza desde cero.
+2. Selecciona un prompt ejemplo o empieza desde cero.
+
     <img src="../images/M1/M1P1_4.png" alt="logo"/>
 
-12. Configura al menos un componente de entrada, es decir, un campo de texto para que el usuario escriba información.
+3. Configura al menos un componente de entrada, es decir, un campo de texto para que el usuario escriba información.
+
     <img src="../images/M1/M1P1_5.png" alt="logo"/>
 
-13. Agrega al menos un componente de salida (IA):
+4. Agrega al menos un componente de salida (IA):
     - Configura una instrucción simple, por ejemplo:
     <img src="../images/M1/M1P1_6.png" alt="logo"/>
 
-14. Asigna un título a tu app.
+5. Asigna un título a tu app.
+
     <img src="../images/M1/M1P1_7.png" alt="logo"/>
 
-15. Ejecuta tu aplicación:
+6. Ejecuta tu aplicación:
+
     <img src="../images/M1/M1P1_2.png" alt="logo"/>
 
     - Ingresa diferentes textos
+
     <img src="../images/M1/M1P1_8.png" alt="logo"/>
 
     - Observa cómo responde
+    
     <img src="../images/M1/M1P1_9.png" alt="logo"/>
     <img src="../images/M1/M1P1_10.png" alt="logo"/>
     <img src="../images/M1/M1P1_11.png" alt="logo"/>
 
 ### Reflexión 
 Reflexiona y responde:
-    - ¿Qué diferencia hay entre esta IA y un sistema tradicional (como un buscador)?
-    - ¿Qué tipo de tareas podrías automatizar con algo así en tu trabajo?
-    - ¿Qué tan importante crees que es la forma en que redactas las instrucciones?
+- ¿Qué diferencia hay entre esta IA y un sistema tradicional (como un buscador)?
+- ¿Qué tipo de tareas podrías automatizar con algo así en tu trabajo?
+- ¿Qué tan importante crees que es la forma en que redactas las instrucciones?
 
 #### Resultado esperado
 Al finalizar esta práctica, el participante será capaz de:
-    - Reconocer cómo interactuar con una IA generativa
-    - Entender que la calidad del resultado depende de la entrada
-    - Identificar aplicaciones reales basadas en IA generativa que puedan ser utilizadas su entorno laboral
-    - Crear una primera solución básica con IA sin código
+- Reconocer cómo interactuar con una IA generativa
+- Entender que la calidad del resultado depende de la entrada
+- Identificar aplicaciones reales basadas en IA generativa que puedan ser utilizadas su entorno laboral
+- Crear una primera solución básica con IA sin código
