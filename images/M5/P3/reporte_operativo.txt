@@ -1,0 +1,10 @@
+Informe mensual de operaciones – Abril
+
+Durante el mes se realizaron 120 entregas. El 85% se completó sin incidencias.
+Se registraron retrasos en la zona norte debido a problemas logísticos.
+El área de soporte recibió múltiples reportes relacionados con fallos en la aplicación móvil.
+
+Se identificaron oportunidades de mejora en:
+- Optimización de rutas
+- Estabilidad de la aplicación
+- Capacitación del personal operativo
