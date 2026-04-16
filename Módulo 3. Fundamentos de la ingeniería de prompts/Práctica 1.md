@@ -14,6 +14,7 @@ Sigue los pasos a continuación para completar cada tarea que conforma la práct
 ### Parte 1. Acceso y exploración inicial
 1. Abre tu navegador web (Chrome, Edge o Firefox recomendado) preferido.
 2. Ingresa al sitio oficial de Google Arts & Culture en el experimento Say What You See, a través del siguiente enlace: [Say What You See](https://artsandculture.google.com/experiment/say-what-you-see/jwG3m7wQShZngw?hl=en). 
+    
     Notas:
     - No es necesario haber iniciado sesión previamente en Google.
     - Este sitio web se encuentra en inglés. Si tu navegador lo permite, puedes traducir automáticamente la página. En caso contrario, puedes apoyarte de un traductor que te permita traducir tus respuestas, por ejemplo, [Traductor de Google](https://translate.google.com.mx/?sl=en&tl=es&op=translate).
@@ -31,7 +32,7 @@ Sigue los pasos a continuación para completar cada tarea que conforma la práct
 5. Cuando te sientas listo, da clic en "Start Level 1" para iniciar el nivel 1, y observarás una pantalla parecida a:
 
     <img src="../images/M3/P1/M3P1_3.png" alt="logo"/>
-    
+
 Con las indicaciones: 
 - "Nivel 1" (Level 1)
 - "50% de coincidencia para aprobar" (50% match to pass)

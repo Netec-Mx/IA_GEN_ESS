@@ -67,24 +67,24 @@ Antes de adoptar estos resultados en procesos reales, se debe evaluar qué tan c
 
     Puedes usar el siguiente ejemplo como referencia:
 
-        ```
-        Actúa como un analista de logística.
-        Nuestra empresa opera en [México] y actualmente trabaja con proveedores logísticos con 
-        los siguientes indicadores promedio:
-        - Costo promedio por envío: [$1,200 MXN]
-        - Tiempo promedio de entrega: [3.5 días]
-        - Nivel de entregas a tiempo: [85%]
-        - Incidencias operativas mensuales: [23]
-        El objetivo es evaluar si estos indicadores reflejan un buen desempeño logístico y 
-        si existe margen de mejora en costos, tiempos de entrega o niveles de servicio.
-        Realiza un análisis de alto nivel, explica cómo interpretar estas métricas y señala 
-        qué tendencias o riesgos podrían evaluarse antes de tomar decisiones.
-        ```
+    ```
+    Actúa como un analista de logística.
+    Nuestra empresa opera en [México] y actualmente trabaja con proveedores logísticos con 
+    los siguientes indicadores promedio:
+    - Costo promedio por envío: [$1,200 MXN]
+    - Tiempo promedio de entrega: [3.5 días]
+    - Nivel de entregas a tiempo: [85%]
+    - Incidencias operativas mensuales: [23]
+    El objetivo es evaluar si estos indicadores reflejan un buen desempeño logístico y 
+    si existe margen de mejora en costos, tiempos de entrega o niveles de servicio.
+    Realiza un análisis de alto nivel, explica cómo interpretar estas métricas y señala 
+    qué tendencias o riesgos podrían evaluarse antes de tomar decisiones.
+    ```
 9. Solicita a la IA que con base en estos datos, determine qué proveedor o tipo de proveedor sería más conveniente para nuestra empresa.
 
     Puedes usar este ejemplo como referencia:
 
-        ```
+    ```
         Compara las métricas anteriores con referencias generales del mercado logístico en
         [México] y con rangos de desempeño esperados para proveedores de paquetería y transporte conocidos.
         Con base en esta comparación:
@@ -93,7 +93,7 @@ Antes de adoptar estos resultados en procesos reales, se debe evaluar qué tan c
         tiempos de entrega y nivel de servicio.
         - Indica qué métricas deberían priorizarse para tomar la decisión final.
         Aclara cuando una comparación sea general o estimada para justificar la recomendación.
-        ```
+    ```
 10. Analiza la respuesta de la IA y responde:
     - ¿La IA explicó por qué recomienda cierto proveedor o tipo de proveedor?
     - ¿Usó tus métricas como base para la comparación?
