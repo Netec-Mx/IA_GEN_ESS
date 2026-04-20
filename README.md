@@ -12,7 +12,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ### Módulo 1. Introducción a la Inteligencia Artificial Generativa
 
-#### [Práctica 1. Explorar integraciones de IA en PartyRock](./Módulo 1. Introducción a la Inteligencia Artificial Generativa/Práctica 1.md)
+#### [Práctica 1. Explorar integraciones de IA en PartyRock](./Módulo-1.-Introducción-a-la-Inteligencia-Artificial-Generativa/Práctica-1.md)
 - **Descripción**: Explorar de forma interactiva cómo funciona la IA generativa mediante el uso de PartyRock, identificando sus capacidades, tipos de interacción y diferencias frente a sistemas tradicionales.
 - ⏱️ **Duración estimada**: 20 min
 
