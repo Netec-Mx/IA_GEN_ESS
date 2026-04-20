@@ -127,16 +127,16 @@ Redacta al menos 3 principios clave.
 
 3. Ingresa a Copilot, Gemini o ChatGPT y utiliza el siguiente prompt:
 
-    ```
-    Ayúdame a diseñar reglas organizacionales para anonimizar información antes de utilizar 
-    herramientas de Inteligencia Artificial.
-    Las reglas deben:
-    - Proteger datos personales y sensibles (PII)
-    - Evitar reidentificación indirecta
-    - Ser aplicables a [distintas áreas de una empresa o el nombre del área a la que perteneces]
-    - Considerar que los datos se usarán para análisis o generación de reportes
-    Propón un conjunto breve de reglas prácticas.
-    ```
+```text
+Ayúdame a diseñar reglas organizacionales para anonimizar información antes de utilizar 
+herramientas de Inteligencia Artificial.
+Las reglas deben:
+- Proteger datos personales y sensibles (PII)
+- Evitar reidentificación indirecta
+- Ser aplicables a [distintas áreas de una empresa o el nombre del área a la que perteneces]
+- Considerar que los datos se usarán para análisis o generación de reportes
+Propón un conjunto breve de reglas prácticas.
+```
 
 4. Analiza la respuesta generada por la IA y responde:
 - ¿Las reglas son claras y aplicables en la práctica?
@@ -155,18 +155,20 @@ Asegúrate de que tu protocolo contemple al menos:
 Una vez definidos estos elementos, solicita apoyo a la IA para redactar el protocolo.
 
 Puedes utilizar un prompt similar al siguiente:
-    ```
-    Ayúdame a redactar un protocolo personal, práctico y reutilizable para anonimizar 
-    información antes de usar herramientas de Inteligencia Artificial.
-    El protocolo debe incluir:
-    - Identificación de datos personales (PII)
-    - Evaluación del riesgo de reidentificación
-    - Acciones concretas de anonimización
-    - Una validación final antes de usar IA
-    - Criterios para definir cuándo no se debe usar IA
 
-    Redáctalo en forma de pasos claros y accionables que una persona pueda seguir en [su trabajo diario, una actividad empresarial o un área específica].
-    ```
+```text
+Ayúdame a redactar un protocolo personal, práctico y reutilizable para anonimizar 
+información antes de usar herramientas de Inteligencia Artificial.
+El protocolo debe incluir:
+- Identificación de datos personales (PII)
+- Evaluación del riesgo de reidentificación
+- Acciones concretas de anonimización
+- Una validación final antes de usar IA
+- Criterios para definir cuándo no se debe usar IA
+
+Redáctalo en forma de pasos claros y accionables que una persona pueda seguir en [su trabajo diario, una actividad empresarial o un área específica].
+```
+
 6. Lee el protocolo generado por la IA:
     - ¿Eliminarías, ajustarías o agregarías algún paso?
     - ¿En qué tipo de actividades consideras que este protocolo podría ayudarte?

@@ -99,25 +99,25 @@ La información con la que trabajaste previamente no sigue el formato que se uti
 
 1. La empresa cuenta con la siguiente información:
 
-    ```
-    Ingresos y costos mensuales
+```text
+Ingresos y costos mensuales
 
-    Ingresos mensuales promedio: $1,450,000
-    Costos directos de operación: $870,000
-    Gastos administrativos: $210,000
-    Gastos comerciales y de ventas: $95,000
+Ingresos mensuales promedio: $1,450,000
+Costos directos de operación: $870,000
+Gastos administrativos: $210,000
+Gastos comerciales y de ventas: $95,000
 
-    Impuestos y ajustes mensuales
+Impuestos y ajustes mensuales
 
-    Impuesto sobre la renta: 30%
-    Provisión mensual para contingencias: $40,000
-    Depreciación mensual de activos: $55,000
+Impuesto sobre la renta: 30%
+Provisión mensual para contingencias: $40,000
+Depreciación mensual de activos: $55,000
 
-    Escenario anual
+Escenario anual
 
-    Crecimiento esperado de ingresos: 6% anual
-    Incremento esperado de costos y gastos: 4% anual
-    ```
+Crecimiento esperado de ingresos: 6% anual
+Incremento esperado de costos y gastos: 4% anual
+```
 
 El objetivo es entender:
 - la utilidad neta mensual actual
@@ -127,39 +127,40 @@ El objetivo es entender:
 Analiza la información anterior para lograr el objetivo. Implementa Chain Of Thought en tu prompt junto con el Rol, Contexto, Instrucción y Formato de salida para comprender toda la respuesta generada y adaptarla al escenario en el que te encuentras.
 
 Puedes inspirarte del siguiente prompt:
-    ```
-    Actúa como un analista contable y financiero.
 
-    Voy a proporcionarte información contable de una empresa.
-    Tu tarea es realizar los cálculos de forma clara, ordenada
-    y verificable, explicando paso a paso cada resultado.
+```text
+Actúa como un analista contable y financiero.
 
-    Información mensual:
-    - Ingresos: $1,450,000
-    - Costos operativos: $870,000
-    - Gastos administrativos: $210,000
-    - Gastos comerciales y de ventas: $95,000
-    - Provisión para contingencias: $40,000
-    - Depreciación: $55,000
-    - Impuesto sobre la renta: 30%
+Voy a proporcionarte información contable de una empresa.
+Tu tarea es realizar los cálculos de forma clara, ordenada
+y verificable, explicando paso a paso cada resultado.
 
-    Parte 1: 
-    Calcula la utilidad neta mensual, siguiendo estos pasos:
-    1. Calcula la utilidad antes de impuestos.
-    2. Aplica el impuesto correspondiente.
-    3. Obtén la utilidad neta final.
+Información mensual:
+- Ingresos: $1,450,000
+- Costos operativos: $870,000
+- Gastos administrativos: $210,000
+- Gastos comerciales y de ventas: $95,000
+- Provisión para contingencias: $40,000
+- Depreciación: $55,000
+- Impuesto sobre la renta: 30%
 
-    Parte 2:
-    A partir de la utilidad neta mensual, estima la utilidad neta anual actual.
+Parte 1: 
+Calcula la utilidad neta mensual, siguiendo estos pasos:
+1. Calcula la utilidad antes de impuestos.
+2. Aplica el impuesto correspondiente.
+3. Obtén la utilidad neta final.
 
-    Parte 3:
-    Proyecta la utilidad neta anual considerando:
-    - Crecimiento de ingresos del 6% anual.
-    - Incremento de costos y gastos del 4% anual.
+Parte 2:
+A partir de la utilidad neta mensual, estima la utilidad neta anual actual.
 
-    Explica claramente cada paso, muestra los cálculos intermedios
-    y aclara cualquier supuesto que realices.
-    ```
+Parte 3:
+Proyecta la utilidad neta anual considerando:
+- Crecimiento de ingresos del 6% anual.
+- Incremento de costos y gastos del 4% anual.
+
+Explica claramente cada paso, muestra los cálculos intermedios
+y aclara cualquier supuesto que realices.
+```
 
 2. Una vez obtenida la respuesta, analiza y responde:
 - ¿La IA siguió un orden lógico en los cálculos?
@@ -183,7 +184,7 @@ El reporte debe incluir:
 - Proyección de escenarios y riesgos
 - Conclusiones (claras y justificadas)
 
-Para asegurar consistencia y calidad, debes guiar explícitamente a la IA sobre cómo estructurar sus respuestas, de forma que puedan integrarse directamente en el reporte final siguiendo una estructura parecida a la de este documento: [estructura_reporte.docx](../images/M3/P4/estructura_reporte.docx) .
+Para asegurar consistencia y calidad, debes guiar explícitamente a la IA sobre cómo estructurar sus respuestas, de forma que puedan integrarse directamente en el reporte final siguiendo una estructura parecida a la de este documento: [estructura_reporte.docx](../images/M3/P4/estructura_reporte.docx)
 
 Crea tu prompt hasta obtener un resultado que cumpla con todas las características definidas.
 
