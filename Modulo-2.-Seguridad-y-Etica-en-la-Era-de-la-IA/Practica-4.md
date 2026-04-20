@@ -11,7 +11,7 @@ Para que puedas replicar esta práctica, se recomienda tener una cuenta en las s
 | Sitio web | Enlace |
 | --- | --- | 
 | ChatGPT | https://auth.openai.com/create-account | 
-| Copilot | https://copilot.microsoft.com/login |
+| Copilot | https://copilot.microsoft.com/login o https://m365.cloud.microsoft/ |
 | Gemini | https://gemini.google.com/app?hl=es |
 
 ## Instrucciones 
@@ -124,7 +124,9 @@ Piensa, por ejemplo, en:
    - Uso del dato con un propósito específico
 
 Redacta al menos 3 principios clave.
+
 3. Ingresa a Copilot, Gemini o ChatGPT y utiliza el siguiente prompt:
+
     ```
     Ayúdame a diseñar reglas organizacionales para anonimizar información antes de utilizar 
     herramientas de Inteligencia Artificial.
@@ -135,11 +137,13 @@ Redacta al menos 3 principios clave.
     - Considerar que los datos se usarán para análisis o generación de reportes
     Propón un conjunto breve de reglas prácticas.
     ```
+
 4. Analiza la respuesta generada por la IA y responde:
-    - ¿Las reglas son claras y aplicables en la práctica?
-    - ¿Incluyen la idea de minimizar datos y evaluar riesgos?
-    - ¿Mencionan validación humana o responsabilidades?
-    - ¿Qué regla agregarías o ajustarías desde tu criterio?
+- ¿Las reglas son claras y aplicables en la práctica?
+- ¿Incluyen la idea de minimizar datos y evaluar riesgos?
+- ¿Mencionan validación humana o responsabilidades?
+- ¿Qué regla agregarías o ajustarías desde tu criterio?
+
 5. Ahora, define los elementos clave que consideras indispensables para un protocolo de anonimización que puedas usar en el futuro antes de enviar información a cualquier herramienta de IA.
 
 Asegúrate de que tu protocolo contemple al menos:

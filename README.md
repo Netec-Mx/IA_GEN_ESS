@@ -54,7 +54,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ### Módulo 4. Análisis de Datos y Visión Artificial
 
-#### Práctica 1. Categorizar datos con NLP
+#### [Práctica 1. Categorizar datos con NLP](./Modulo-4.-Analisis-de-Datos-y-Vision-Artificial/Practica-4.md)
 - **Descripción**: Aplicar técnicas de procesamiento de lenguaje natural para organizar grandes volúmenes de datos no estructurados, transformándolos en información útil que facilite el análisis y la generación de indicadores estratégicos.
 - ⏱️ **Duración estimada**: 20 min
 
