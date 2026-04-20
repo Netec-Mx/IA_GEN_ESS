@@ -24,35 +24,41 @@ Antes de adoptar estos resultados en procesos reales, se debe evaluar qué tan c
 
 1. Ingresa a ChatGPT, Gemini o Copilot.
 2. Escribe el siguiente prompt:
-    ```
-    Dime cuál es el mejor proveedor logístico.
-    ```
+
+```text
+Dime cuál es el mejor proveedor logístico.
+```
+
 3. Lee cuidadosamente la respuesta generada y analiza:
     - ¿La IA menciona algún proveedor específico?
     - ¿Explica con base en qué criterios define “mejor”?
     - ¿La respuesta es aplicable a tu empresa?
 4. Ahora escribe un prompt con un poco más de contexto, pero aún sin una estructura clara:
-    ```
-    Dime cuál es el mejor proveedor logístico para una empresa en [México].
-    ```
+
+```text
+Dime cuál es el mejor proveedor logístico para una empresa en [México].
+```
+
 5. Analiza la respuesta y responde:
     - ¿La IA ajusta la respuesta al país o contexto?
     - ¿Es ahora una recomendación más específica?
     - ¿La información es verificable?
     - ¿Qué información te sería útil para tomar una decisión?
 6. Ahora utiliza un prompt estructurado, incorporando los elementos básicos de la ingeniería de prompts, por ejemplo:
-    ```
-    Actúa como un analista del área de Logística.
-    Necesito evaluar proveedores de transporte para una empresa ubicada en [México] 
-    que maneja envíos nacionales.
-    Considera los siguientes criterios:
-    - Cumplimiento de tiempos de entrega
-    - Costo del servicio
-    - Cobertura geográfica
-    - Confiabilidad operativa
-    El objetivo es identificar qué tipo de proveedor sería el más adecuado a partir de esos criterios.
-    Realiza un análisis de alto nivel y explica los factores a considerar.
-    ```
+
+```text
+Actúa como un analista del área de Logística.
+Necesito evaluar proveedores de transporte para una empresa ubicada en [México] 
+que maneja envíos nacionales.
+Considera los siguientes criterios:
+- Cumplimiento de tiempos de entrega
+- Costo del servicio
+- Cobertura geográfica
+- Confiabilidad operativa
+El objetivo es identificar qué tipo de proveedor sería el más adecuado a partir de esos criterios.
+Realiza un análisis de alto nivel y explica los factores a considerar.
+```
+
 7. Revisa la respuesta y analiza:
     - ¿La IA logró el objetivo planteado?
     - ¿Respeta las restricciones?

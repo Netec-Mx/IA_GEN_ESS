@@ -54,19 +54,19 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ### Módulo 4. Análisis de Datos y Visión Artificial
 
-#### [Práctica 1. Categorizar datos con NLP](./Modulo-4.-Analisis-de-Datos-y-Vision-Artificial/Practica-4.md)
+#### [Práctica 1. Categorizar datos con NLP](./Modulo-4.-Analisis-de-Datos-y-Vision-Artificial/Practica-1.md)
 - **Descripción**: Aplicar técnicas de procesamiento de lenguaje natural para organizar grandes volúmenes de datos no estructurados, transformándolos en información útil que facilite el análisis y la generación de indicadores estratégicos.
 - ⏱️ **Duración estimada**: 20 min
 
-#### Práctica 2. Extraer información de imágenes y cruzarla con datos
+#### [Práctica 2. Extraer información de imágenes y cruzarla con datos](./Modulo-4.-Analisis-de-Datos-y-Vision-Artificial/Practica-2.md)
 - **Descripción**: Utilizar capacidades de visión artificial para extraer información relevante de imágenes y combinarla con datos estructurados, generando análisis más completos y útiles para la toma de decisiones.
 - ⏱️ **Duración estimada**: 20 min
 
-#### Práctica 3. Digitalizar información desde medios físicos
+#### [Práctica 3. Digitalizar información desde medios físicos](./Modulo-4.-Analisis-de-Datos-y-Vision-Artificial/Practica-3.md)
 - **Descripción**: Implementar herramientas de IA multimodal para automatizar la extracción de datos desde documentos físicos o imágenes, optimizando procesos de digitalización y gestión de información.
 - ⏱️ **Duración estimada**: 20 min
 
-#### Práctica 4. Convertir diagramas a estructuras digitales
+#### [Práctica 4. Convertir diagramas a estructuras digitales](./Modulo-4.-Analisis-de-Datos-y-Vision-Artificial/Practica-4.md)
 - **Descripción**: Transformar representaciones visuales o esquemas en estructuras digitales organizadas mediante IA, facilitando la documentación formal y la comunicación de procesos dentro de la organización.
 - ⏱️ **Duración estimada**: 15 min
 

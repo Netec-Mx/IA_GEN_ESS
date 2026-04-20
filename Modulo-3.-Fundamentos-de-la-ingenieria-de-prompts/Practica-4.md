@@ -25,13 +25,15 @@ Nota: En esta práctica se utiliza el concepto de impuesto sobre la renta de for
 
 1. Ingresa a ChatGPT
 2. Escribe el siguiente prompt sin agregar instrucciones adicionales:
-    ```
-    Calcula la utilidad neta mensual de una empresa considerando:
-    - Ingresos mensuales: $850,000
-    - Costos operativos: $520,000
-    - Gastos administrativos: $95,000
-    - Impuesto sobre la renta del 30%
-    ```
+
+```text
+Calcula la utilidad neta mensual de una empresa considerando:
+- Ingresos mensuales: $850,000
+- Costos operativos: $520,000
+- Gastos administrativos: $95,000
+- Impuesto sobre la renta del 30%
+ ```
+
 3. Lee la respuesta generada y responde:
     - ¿Qué resultado entrega la IA?
     - ¿Explica cómo llega a la utilidad neta?
@@ -39,22 +41,23 @@ Nota: En esta práctica se utiliza el concepto de impuesto sobre la renta de for
 4. Probablemente hubo algún dato que no llegamos a comprender. Solicita explícitamente que la IA te explique su razonamiento paso a paso.
 
 Puedes utlizar este prompt como inspiración:
-    ```
-    Calcula la utilidad neta mensual de la empresa con la siguiente información:
 
-    - Ingresos mensuales: $850,000
-    - Costos operativos: $520,000
-    - Gastos administrativos: $95,000
-    - Impuesto sobre la renta: 30%
+```text
+Calcula la utilidad neta mensual de la empresa con la siguiente información:
+- Ingresos mensuales: $850,000
+- Costos operativos: $520,000
+- Gastos administrativos: $95,000
+- Impuesto sobre la renta: 30%
 
-    Realiza el cálculo paso a paso:
-    1. Determina la utilidad antes de impuestos.
-    2. Calcula el impuesto correspondiente.
-    3. Obtén la utilidad neta final.
+Realiza el cálculo paso a paso:
+1. Determina la utilidad antes de impuestos.
+2. Calcula el impuesto correspondiente.
+3. Obtén la utilidad neta final.
 
-    Explica cada paso antes de mostrar el resultado final.
-    Explica qué representa cada uno de los conceptos relacionados con la utilidad neta mensual.
-    ```
+Explica cada paso antes de mostrar el resultado final.
+Explica qué representa cada uno de los conceptos relacionados con la utilidad neta mensual.
+```
+
 5. Lee la respuesta generada y responde:
    - ¿El procedimiento contable es claro y ordenado?
    - ¿Serías capaz de corroborar cada operación y resultado?
@@ -67,28 +70,29 @@ Puedes utlizar este prompt como inspiración:
 La información con la que trabajaste previamente no sigue el formato que se utiliza en la organización, por lo que tendremos que enseñarle a la IA cómo debe entregarla.
 
 1. Utiliza el siguiente prompt con ejemplos (Few‑Shot):
-    ```
-    Ejemplo 1:
-    Ingresos: $500,000  
-    Costos y gastos: $300,000  
-    Utilidad antes de impuestos: $200,000  
-    Impuesto sobre la renta (30%): $60,000  
-    Utilidad neta: $140,000  
 
-    Ejemplo 2:
-    Ingresos: $1,200,000  
-    Costos y gastos: $820,000  
-    Utilidad antes de impuestos: $380,000  
-    Impuesto sobre la renta (30%): $114,000  
-    Utilidad neta: $266,000  
+```text
+Ejemplo 1:
+Ingresos: $500,000  
+Costos y gastos: $300,000  
+Utilidad antes de impuestos: $200,000  
+Impuesto sobre la renta (30%): $60,000  
+Utilidad neta: $140,000  
 
-    Ahora resuelve el siguiente caso siguiendo exactamente el mismo esquema:
+Ejemplo 2:
+Ingresos: $1,200,000  
+Costos y gastos: $820,000  
+Utilidad antes de impuestos: $380,000  
+Impuesto sobre la renta (30%): $114,000  
+Utilidad neta: $266,000  
 
-    - Ingresos mensuales: $850,000
-    - Costos operativos: $520,000
-    - Gastos administrativos: $95,000
-    - Impuesto sobre la renta: 30%
-    ```
+Ahora resuelve el siguiente caso siguiendo exactamente el mismo esquema:
+- Ingresos mensuales: $850,000
+- Costos operativos: $520,000
+- Gastos administrativos: $95,000
+ - Impuesto sobre la renta: 30%
+```
+
 2. Analiza la respuesta y reflexiona:
     - ¿La IA siguió la misma estructura de los ejemplos?
     - ¿El cálculo es coherente y consistente?
