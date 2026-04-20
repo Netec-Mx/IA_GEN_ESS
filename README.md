@@ -52,6 +52,118 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 - **Descripción**: Diseñar prompts avanzados que incorporen razonamiento paso a paso y ejemplos previos, con el objetivo de mejorar la precisión en tareas complejas y reducir errores en los resultados generados.
 - ⏱️ **Duración estimada**: 15 min
 
+### Módulo 4. Análisis de Datos y Visión Artificial
+
+#### Práctica 1. Categorizar datos con NLP
+- **Descripción**: Aplicar técnicas de procesamiento de lenguaje natural para organizar grandes volúmenes de datos no estructurados, transformándolos en información útil que facilite el análisis y la generación de indicadores estratégicos.
+- ⏱️ **Duración estimada**: 20 min
+
+#### Práctica 2. Extraer información de imágenes y cruzarla con datos
+- **Descripción**: Utilizar capacidades de visión artificial para extraer información relevante de imágenes y combinarla con datos estructurados, generando análisis más completos y útiles para la toma de decisiones.
+- ⏱️ **Duración estimada**: 20 min
+
+#### Práctica 3. Digitalizar información desde medios físicos
+- **Descripción**: Implementar herramientas de IA multimodal para automatizar la extracción de datos desde documentos físicos o imágenes, optimizando procesos de digitalización y gestión de información.
+- ⏱️ **Duración estimada**: 20 min
+
+#### Práctica 4. Convertir diagramas a estructuras digitales
+- **Descripción**: Transformar representaciones visuales o esquemas en estructuras digitales organizadas mediante IA, facilitando la documentación formal y la comunicación de procesos dentro de la organización.
+- ⏱️ **Duración estimada**: 15 min
+
+### Módulo 5. Panorama Competitivo y Aplicación Industrial
+
+#### Práctica 1. Comparar herramientas con información compleja
+- **Descripción**: Evaluar el desempeño de distintas plataformas de inteligencia artificial al procesar información compleja, identificando diferencias en precisión, velocidad y utilidad para distintos contextos empresariales.
+- ⏱️ **Duración estimada**: 15 min
+
+#### Práctica 2. Análisis comparativo por industria
+- **Descripción**: Analizar el comportamiento de distintas herramientas de IA en escenarios de negocio específicos, considerando factores como regulación, seguridad, trazabilidad y flexibilidad de uso.
+- ⏱️ **Duración estimada**: 15 min
+
+#### Práctica 3. Evaluar multimodalidad en análisis empresarial
+- **Descripción**: Determinar el valor de integrar texto e imágenes en el análisis con IA, comparando resultados frente a enfoques tradicionales basados únicamente en información textual.
+- ⏱️ **Duración estimada**: 15 min
+
+### Módulo 6. El Ecosistema de Microsoft Copilot
+
+#### Práctica 1. Generar planes de proyecto con Copilot
+- **Descripción**: Utilizar Microsoft Copilot para transformar descripciones generales en planes de trabajo estructurados, incluyendo tareas, responsables y tiempos, facilitando la organización de proyectos.
+- ⏱️ **Duración estimada**: 20 min
+
+#### Práctica 2. Transformar texto en documentos estructurados
+- **Descripción**: Aplicar capacidades de IA para convertir información básica en documentos formales y estructurados, mejorando la calidad y consistencia de la documentación organizacional.
+- ⏱️ **Duración estimada**: 20 min
+
+#### Práctica 3. Integrar análisis de datos y generación de contenido
+- **Descripción**: Automatizar un flujo completo que integre análisis de datos, generación de documentos y creación de presentaciones, demostrando el potencial de la IA en procesos end-to-end.
+- ⏱️ **Duración estimada**: 20 min
+
+### Módulo 7. El Ecosistema de Google Gemini
+
+#### Práctica 1. Sintetizar información con NotebookLM
+- **Descripción**: Utilizar herramientas de IA para consolidar múltiples fuentes de información en resúmenes claros y estructurados, facilitando la comprensión y el aprovechamiento del conocimiento organizacional.
+- ⏱️ **Duración estimada**: 15 min
+
+#### Práctica 2. Orquestar información en Gemini App
+- **Descripción**: Aplicar capacidades de IA para integrar y recuperar información dispersa, automatizando procesos administrativos y mejorando la eficiencia en la gestión de datos.
+- ⏱️ **Duración estimada**: 15 min
+
+#### Práctica 3. Generar activos visuales con IA
+- **Descripción**: Crear materiales visuales de alta calidad mediante herramientas de IA, optimizando la comunicación de ideas y la generación de contenido para presentaciones corporativas.
+- ⏱️ **Duración estimada**: 15 min
+
+#### Práctica 4. Procesar documentos masivos con AI Studio
+- **Descripción**: Utilizar plataformas de IA para analizar grandes volúmenes de documentos no estructurados, extrayendo información clave que facilite la toma de decisiones empresariales.
+- ⏱️ **Duración estimada**: 15 min
+
+### Módulo 8. El Ecosistema de OpenAI ChatGPT
+
+#### Práctica 1. Analizar datos con Advanced Data Analysis
+- **Descripción**: Aplicar capacidades avanzadas de análisis de datos para interpretar información compleja y transformarla en resultados claros, accionables y orientados a la toma de decisiones.
+- ⏱️ **Duración estimada**: 15 min
+
+#### Práctica 2. Crear un GPT especializado
+- **Descripción**: Diseñar un agente personalizado capaz de analizar, comparar y generar información relevante a partir de documentos, adaptado a necesidades específicas de la organización.
+- ⏱️ **Duración estimada**: 15 min
+
+### Módulo 9. Arquitectura de Agentes de IA
+
+#### Práctica 1. Explorar soluciones basadas en agentes
+- **Descripción**: Explorar ejemplos reales de agentes de IA para comprender su aplicación en procesos organizacionales y su impacto en la automatización de tareas.
+- ⏱️ **Duración estimada**: 6 min
+
+#### Práctica 2. Diferenciar asistente vs agente
+- **Descripción**: Identificar las diferencias funcionales entre asistentes y agentes de IA, comprendiendo sus roles dentro de procesos automatizados y su nivel de autonomía.
+- ⏱️ **Duración estimada**: 10 min
+
+#### Práctica 3. Diseñar la estructura de un agente
+- **Descripción**: Implementar herramientas de IA multimodal para automatizar la extracción de datos desde documentos físicos o imágenes, optimizando procesos de digitalización y gestión de información.
+- ⏱️ **Duración estimada**: 10 min
+
+#### Práctica 4. Definir manejo de excepciones (Manual de Crisis)
+- **Descripción**: Transformar representaciones visuales o esquemas en estructuras digitales organizadas mediante IA, facilitando la documentación formal y la comunicación de procesos dentro de la organización.
+- ⏱️ **Duración estimada**: 10 min
+
+#### Práctica 5. Gestionar fuentes de conocimiento
+- **Descripción**: Seleccionar, organizar y estructurar fuentes de información que alimenten a un agente, asegurando la calidad, precisión y actualización de sus respuestas.
+- ⏱️ **Duración estimada**: 10 min
+
+### Módulo 10. Desarrollo de GPTs y Gems
+
+#### Práctica 1. Construir agentes en ChatGPT
+- **Descripción**: Desarrollar agentes personalizados en ChatGPT mediante la integración de bases de conocimiento, asegurando respuestas precisas y alineadas a necesidades específicas del usuario.
+- ⏱️ **Duración estimada**: 20 min
+
+#### Práctica 2. Diseñar Gems en Gemini
+- **Descripción**: Crear agentes personalizados en Gemini que automaticen tareas creativas y operativas, aprovechando capacidades de aprendizaje guiado y generación multimodal.
+- ⏱️ **Duración estimada**: 20 min
+
+### Módulo 11. Implementación de agentes en el flujo de trabajo con Copilot Studio
+
+#### Práctica 1. Implementar agentes en Copilot Studio
+- **Descripción**: Integrar un agente en un flujo de trabajo real utilizando Copilot Studio, automatizando tareas, consultas y procesos organizacionales de manera eficiente.
+- ⏱️ **Duración estimada**: 45 min
+
 ---
 
 ## 📬 **Contacto y más información**
