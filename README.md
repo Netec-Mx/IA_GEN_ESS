@@ -72,15 +72,15 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ### Módulo 5. Panorama Competitivo y Aplicación Industrial
 
-#### Práctica 1. Comparar herramientas con información compleja
+#### [Práctica 1. Comparar herramientas con información compleja](./Modulo-5.-Panorama-Competitivo-y-Aplicacion-Industrial/Practica-1.md)
 - **Descripción**: Evaluar el desempeño de distintas plataformas de inteligencia artificial al procesar información compleja, identificando diferencias en precisión, velocidad y utilidad para distintos contextos empresariales.
 - ⏱️ **Duración estimada**: 15 min
 
-#### Práctica 2. Análisis comparativo por industria
+#### [Práctica 2. Análisis comparativo por industria](./Modulo-5.-Panorama-Competitivo-y-Aplicacion-Industrial/Practica-2.md)
 - **Descripción**: Analizar el comportamiento de distintas herramientas de IA en escenarios de negocio específicos, considerando factores como regulación, seguridad, trazabilidad y flexibilidad de uso.
 - ⏱️ **Duración estimada**: 15 min
 
-#### Práctica 3. Evaluar multimodalidad en análisis empresarial
+#### [Práctica 3. Evaluar multimodalidad en análisis empresarial](./Modulo-5.-Panorama-Competitivo-y-Aplicacion-Industrial/Practica-3.md)
 - **Descripción**: Determinar el valor de integrar texto e imágenes en el análisis con IA, comparando resultados frente a enfoques tradicionales basados únicamente en información textual.
 - ⏱️ **Duración estimada**: 15 min
 
