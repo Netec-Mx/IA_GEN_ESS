@@ -1,0 +1,1 @@
+En esta carpeta encontrarás el archivo registro_operaciones.xlsx y las carpetas "entregas" e "incidencias", que contienen imágenes que podrás utilizar en tu práctica.

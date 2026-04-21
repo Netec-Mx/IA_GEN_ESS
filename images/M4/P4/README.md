@@ -1,0 +1,1 @@
+En esta carpeta encontrarás imágenes que podrás utilizar en tu práctica.

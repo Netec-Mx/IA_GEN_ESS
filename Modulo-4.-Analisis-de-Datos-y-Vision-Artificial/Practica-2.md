@@ -32,7 +32,7 @@ El objetivo de esta práctica es utilizar Inteligencia Artificial para analizar 
 
 ### Parte 1. Análisis de imagenes
 1. Ingresa a Gemini y crea una nueva conversación
-2. Descarga el contenido de estas carpetas: [entregas e incidencias](../images/M4/P2) y selecciona una imagen (la que prefieras).
+2. Descarga el contenido de estas carpetas: [entregas e incidencias](../images/M4/P2/) y selecciona una imagen (la que prefieras).
 3. Carga la imagen en la herramienta y redacta el siguiente prompt:
 
 ```text

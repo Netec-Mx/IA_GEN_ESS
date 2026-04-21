@@ -1,0 +1,1 @@
+En esta carpeta encontrarás el archivo inventario_base.xlsx e imágenes que podrás utilizar en tu práctica.
