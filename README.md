@@ -86,15 +86,15 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ### Módulo 6. El Ecosistema de Microsoft Copilot
 
-#### Práctica 1. Generar planes de proyecto con Copilot
+#### [Práctica 1. Generar planes de proyecto con Copilot](./Modulo-6.-El-Ecosistema-de-Microsoft-Copilot/Practica-1.md)
 - **Descripción**: Utilizar Microsoft Copilot para transformar descripciones generales en planes de trabajo estructurados, incluyendo tareas, responsables y tiempos, facilitando la organización de proyectos.
 - ⏱️ **Duración estimada**: 20 min
 
-#### Práctica 2. Transformar texto en documentos estructurados
+#### [Práctica 2. Transformar texto en documentos estructurados](./Modulo-6.-El-Ecosistema-de-Microsoft-Copilot/Practica-2.md)
 - **Descripción**: Aplicar capacidades de IA para convertir información básica en documentos formales y estructurados, mejorando la calidad y consistencia de la documentación organizacional.
 - ⏱️ **Duración estimada**: 20 min
 
-#### Práctica 3. Integrar análisis de datos y generación de contenido
+#### [Práctica 3. Integrar análisis de datos y generación de contenido](./Modulo-6.-El-Ecosistema-de-Microsoft-Copilot/Practica-3.md)
 - **Descripción**: Automatizar un flujo completo que integre análisis de datos, generación de documentos y creación de presentaciones, demostrando el potencial de la IA en procesos end-to-end.
 - ⏱️ **Duración estimada**: 20 min
 
