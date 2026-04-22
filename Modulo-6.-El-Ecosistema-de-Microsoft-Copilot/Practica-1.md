@@ -11,7 +11,7 @@ Para que puedas replicar esta práctica, se recomienda tener una cuenta en cualq
 | Sitio web | Enlace |
 | --- | --- | 
 | ChatGPT | https://auth.openai.com/create-account | 
-| Copilot | https://copilot.microsoft.com/login |
+| Copilot | https://copilot.microsoft.com/login o https://m365.cloud.microsoft/ |
 | Gemini | https://gemini.google.com/app?hl=es |
 
 ## Instrucciones 
