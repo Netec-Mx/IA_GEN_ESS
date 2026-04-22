@@ -1,4 +1,4 @@
-# Práctica 1. Panorama Competitivo y Aplicación Industrial
+# Práctica 1. Comparar herramientas con información compleja
 ## Objetivos
 Evaluar el desempeño de distintas plataformas de inteligencia artificial al procesar información compleja, identificando diferencias en precisión, velocidad y utilidad para distintos contextos empresariales.
 
