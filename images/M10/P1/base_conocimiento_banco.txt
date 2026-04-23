@@ -1,0 +1,34 @@
+PROCESO DE ATENCIÓN DE INCIDENCIAS BANCARIAS
+
+1. Registro
+El cliente reporta un problema vía app, web o teléfono.
+
+2. Clasificación
+- Alta: posible fraude, acceso no autorizado, movimientos desconocidos
+- Media: errores en pagos, transferencias incorrectas
+- Baja: consultas generales o lentitud del sistema
+
+3. Asignación
+- Seguridad: fraude o accesos sospechosos
+- Operaciones: pagos y transferencias
+- Soporte: problemas técnicos
+
+4. Resolución
+Se analiza el caso y se toman acciones correctivas.
+
+5. Validación
+Se confirma con el cliente la resolución.
+
+6. Cierre
+Se documenta el caso.
+
+SLA:
+- Alta: inmediato (máx. 2 horas)
+- Media: 24 horas
+- Baja: 72 horas
+
+Problemas comunes:
+- Cargos no reconocidos
+- Transferencias duplicadas
+- Bloqueo de cuenta
+- Lentitud en app

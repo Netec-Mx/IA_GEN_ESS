@@ -1,0 +1,14 @@
+CASO 1:
+"Hay un cargo en mi cuenta que no reconozco"
+
+CASO 2:
+"No puedo entrar a mi banca móvil"
+
+CASO 3:
+"Hice una transferencia y no se refleja"
+
+CASO 4:
+"La app está muy lenta"
+
+CASO 5:
+"Me bloquearon la cuenta sin razón"
