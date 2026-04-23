@@ -101,7 +101,7 @@ Formato de respuesta:
 
 - Funciones: Selecciona únicamente "Intérprete de código y análisis de datos"
 
--Da clic en Configuración Adicional y quita el check de la casilla.
+- Da clic en Configuración Adicional y si así lo deseas, quita el check de la casilla.
 
 Todo debe quedar de la siguiente manera:
 
@@ -109,7 +109,7 @@ Todo debe quedar de la siguiente manera:
 
 5. Si así lo deseas puedes agregar la siguiente imagen para identificar a tu GPT: [BankAssist.png](../images/M10/P1/BankAssist.png)
 
-Da clic en el ícono de adición que se encuentra dentro de la circunferencia en la sección superior de la configuración. Da clic en "cargar foto" e integra el archivo BankAssist.png
+Da clic en el ícono de adición que se encuentra dentro de la circunferencia en la sección superior de la configuración. Da clic en "Cargar foto" e integra el archivo BankAssist.png
 
 <img src="../images/M10/M10P1_7.png" alt="integrar_imagen"/>
 
