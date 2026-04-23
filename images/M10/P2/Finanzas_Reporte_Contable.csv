@@ -1,0 +1,7 @@
+ID_Transacción,Monto_Recibido,Fecha_Depósito,Estado_Pago
+T001,1000,2026-03-04,Pagado
+T002,450,2026-03-05,Pagado
+T004,800,2026-03-07,Pagado
+T005,1500,2026-03-10,Pagado
+T006,850,2026-03-11,Pagado
+T007,1400,2026-03-12,Pagado

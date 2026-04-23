@@ -1,0 +1,8 @@
+ID_Transacción,Producto,Cantidad_Vendida,Fecha,Monto_Total
+T001,Licencia Pro,1,2026-03-03,1000
+T002,Consultoría,1,2026-03-04,500
+T003,Soporte Anual,1,2026-03-05,2000
+T004,Licencia Básica,2,2026-03-06,800
+T005,Integración API,1,2026-03-07,1500
+T006,Licencia Pro,1,2026-03-08,850
+T007,Consultoría,3,2026-03-09,1500

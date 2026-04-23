@@ -1,0 +1,1 @@
+En esta carpeta encontrarás 3 archivos que te servirán para realizar la práctica 1 del módulo 7.

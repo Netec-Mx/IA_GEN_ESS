@@ -150,11 +150,11 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ### Módulo 10. Desarrollo de GPTs y Gems
 
-#### Práctica 1. Construir agentes en ChatGPT
+#### [Práctica 1. Construir agentes en ChatGPT](./Modulo-10.-Desarrollo-de-GPTs-y-Gems/Practica-1.md)
 - **Descripción**: Desarrollar agentes personalizados en ChatGPT mediante la integración de bases de conocimiento, asegurando respuestas precisas y alineadas a necesidades específicas del usuario.
 - ⏱️ **Duración estimada**: 20 min
 
-#### Práctica 2. Diseñar Gems en Gemini
+#### [Práctica 2. Diseñar Gems en Gemini](./Modulo-10.-Desarrollo-de-GPTs-y-Gems/Practica-2.md)
 - **Descripción**: Crear agentes personalizados en Gemini que automaticen tareas creativas y operativas, aprovechando capacidades de aprendizaje guiado y generación multimodal.
 - ⏱️ **Duración estimada**: 20 min
 

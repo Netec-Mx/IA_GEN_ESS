@@ -1,0 +1,120 @@
+Cliente_1: No se integra bien con nuestro sistema actual.
+Cliente_2: Necesitamos compatibilidad con herramientas de terceros.
+Cliente_3: El costo no justifica el valor percibido.
+Cliente_4: La integración con APIs externas es limitada.
+Cliente_5: Nos interesa, pero el presupuesto es una barrera.
+Cliente_6: Buscamos soluciones más abiertas.
+Cliente_7: El equipo técnico menciona problemas de interoperabilidad.
+Cliente_8: Preferimos plataformas que se conecten fácilmente con nuestro ERP.
+Cliente_9: La falta de integración genera retrabajo.
+Cliente_10: El precio es demasiado alto comparado con otras soluciones.
+Cliente_11: No se integra bien con nuestro sistema actual.
+Cliente_12: Necesitamos compatibilidad con herramientas de terceros.
+Cliente_13: El costo no justifica el valor percibido.
+Cliente_14: La integración con APIs externas es limitada.
+Cliente_15: Nos interesa, pero el presupuesto es una barrera.
+Cliente_16: Buscamos soluciones más abiertas.
+Cliente_17: El equipo técnico menciona problemas de interoperabilidad.
+Cliente_18: Preferimos plataformas que se conecten fácilmente con nuestro ERP.
+Cliente_19: La falta de integración genera retrabajo.
+Cliente_20: El precio es demasiado alto comparado con otras soluciones.
+Cliente_21: No se integra bien con nuestro sistema actual.
+Cliente_22: Necesitamos compatibilidad con herramientas de terceros.
+Cliente_23: El costo no justifica el valor percibido.
+Cliente_24: La integración con APIs externas es limitada.
+Cliente_25: Nos interesa, pero el presupuesto es una barrera.
+Cliente_26: Buscamos soluciones más abiertas.
+Cliente_27: El equipo técnico menciona problemas de interoperabilidad.
+Cliente_28: Preferimos plataformas que se conecten fácilmente con nuestro ERP.
+Cliente_29: La falta de integración genera retrabajo.
+Cliente_30: El precio es demasiado alto comparado con otras soluciones.
+Cliente_31: No se integra bien con nuestro sistema actual.
+Cliente_32: Necesitamos compatibilidad con herramientas de terceros.
+Cliente_33: El costo no justifica el valor percibido.
+Cliente_34: La integración con APIs externas es limitada.
+Cliente_35: Nos interesa, pero el presupuesto es una barrera.
+Cliente_36: Buscamos soluciones más abiertas.
+Cliente_37: El equipo técnico menciona problemas de interoperabilidad.
+Cliente_38: Preferimos plataformas que se conecten fácilmente con nuestro ERP.
+Cliente_39: La falta de integración genera retrabajo.
+Cliente_40: El precio es demasiado alto comparado con otras soluciones.
+Cliente_41: No se integra bien con nuestro sistema actual.
+Cliente_42: Necesitamos compatibilidad con herramientas de terceros.
+Cliente_43: El costo no justifica el valor percibido.
+Cliente_44: La integración con APIs externas es limitada.
+Cliente_45: Nos interesa, pero el presupuesto es una barrera.
+Cliente_46: Buscamos soluciones más abiertas.
+Cliente_47: El equipo técnico menciona problemas de interoperabilidad.
+Cliente_48: Preferimos plataformas que se conecten fácilmente con nuestro ERP.
+Cliente_49: La falta de integración genera retrabajo.
+Cliente_50: El precio es demasiado alto comparado con otras soluciones.
+Cliente_51: No se integra bien con nuestro sistema actual.
+Cliente_52: Necesitamos compatibilidad con herramientas de terceros.
+Cliente_53: El costo no justifica el valor percibido.
+Cliente_54: La integración con APIs externas es limitada.
+Cliente_55: Nos interesa, pero el presupuesto es una barrera.
+Cliente_56: Buscamos soluciones más abiertas.
+Cliente_57: El equipo técnico menciona problemas de interoperabilidad.
+Cliente_58: Preferimos plataformas que se conecten fácilmente con nuestro ERP.
+Cliente_59: La falta de integración genera retrabajo.
+Cliente_60: El precio es demasiado alto comparado con otras soluciones.
+Cliente_61: No se integra bien con nuestro sistema actual.
+Cliente_62: Necesitamos compatibilidad con herramientas de terceros.
+Cliente_63: El costo no justifica el valor percibido.
+Cliente_64: La integración con APIs externas es limitada.
+Cliente_65: Nos interesa, pero el presupuesto es una barrera.
+Cliente_66: Buscamos soluciones más abiertas.
+Cliente_67: El equipo técnico menciona problemas de interoperabilidad.
+Cliente_68: Preferimos plataformas que se conecten fácilmente con nuestro ERP.
+Cliente_69: La falta de integración genera retrabajo.
+Cliente_70: El precio es demasiado alto comparado con otras soluciones.
+Cliente_71: No se integra bien con nuestro sistema actual.
+Cliente_72: Necesitamos compatibilidad con herramientas de terceros.
+Cliente_73: El costo no justifica el valor percibido.
+Cliente_74: La integración con APIs externas es limitada.
+Cliente_75: Nos interesa, pero el presupuesto es una barrera.
+Cliente_76: Buscamos soluciones más abiertas.
+Cliente_77: El equipo técnico menciona problemas de interoperabilidad.
+Cliente_78: Preferimos plataformas que se conecten fácilmente con nuestro ERP.
+Cliente_79: La falta de integración genera retrabajo.
+Cliente_80: El precio es demasiado alto comparado con otras soluciones.
+Cliente_81: No se integra bien con nuestro sistema actual.
+Cliente_82: Necesitamos compatibilidad con herramientas de terceros.
+Cliente_83: El costo no justifica el valor percibido.
+Cliente_84: La integración con APIs externas es limitada.
+Cliente_85: Nos interesa, pero el presupuesto es una barrera.
+Cliente_86: Buscamos soluciones más abiertas.
+Cliente_87: El equipo técnico menciona problemas de interoperabilidad.
+Cliente_88: Preferimos plataformas que se conecten fácilmente con nuestro ERP.
+Cliente_89: La falta de integración genera retrabajo.
+Cliente_90: El precio es demasiado alto comparado con otras soluciones.
+Cliente_91: No se integra bien con nuestro sistema actual.
+Cliente_92: Necesitamos compatibilidad con herramientas de terceros.
+Cliente_93: El costo no justifica el valor percibido.
+Cliente_94: La integración con APIs externas es limitada.
+Cliente_95: Nos interesa, pero el presupuesto es una barrera.
+Cliente_96: Buscamos soluciones más abiertas.
+Cliente_97: El equipo técnico menciona problemas de interoperabilidad.
+Cliente_98: Preferimos plataformas que se conecten fácilmente con nuestro ERP.
+Cliente_99: La falta de integración genera retrabajo.
+Cliente_100: El precio es demasiado alto comparado con otras soluciones.
+Cliente_101: No se integra bien con nuestro sistema actual.
+Cliente_102: Necesitamos compatibilidad con herramientas de terceros.
+Cliente_103: El costo no justifica el valor percibido.
+Cliente_104: La integración con APIs externas es limitada.
+Cliente_105: Nos interesa, pero el presupuesto es una barrera.
+Cliente_106: Buscamos soluciones más abiertas.
+Cliente_107: El equipo técnico menciona problemas de interoperabilidad.
+Cliente_108: Preferimos plataformas que se conecten fácilmente con nuestro ERP.
+Cliente_109: La falta de integración genera retrabajo.
+Cliente_110: El precio es demasiado alto comparado con otras soluciones.
+Cliente_111: No se integra bien con nuestro sistema actual.
+Cliente_112: Necesitamos compatibilidad con herramientas de terceros.
+Cliente_113: El costo no justifica el valor percibido.
+Cliente_114: La integración con APIs externas es limitada.
+Cliente_115: Nos interesa, pero el presupuesto es una barrera.
+Cliente_116: Buscamos soluciones más abiertas.
+Cliente_117: El equipo técnico menciona problemas de interoperabilidad.
+Cliente_118: Preferimos plataformas que se conecten fácilmente con nuestro ERP.
+Cliente_119: La falta de integración genera retrabajo.
+Cliente_120: El precio es demasiado alto comparado con otras soluciones.
