@@ -13,7 +13,7 @@ Para que puedas replicar esta práctica, se recomienda tener una cuenta en la si
 | Google AI Studio | https://aistudio.google.com/ |
 
 ## Instrucciones 
-Sigue los pasos a continuación para completar cada tarea que conforma la práctica.
+Sigue los pasos a continuación para completar cada tarea que conforma la práctica. O si así lo prefieres, puedes usar la información que generaste en el Módulo 9.
 
 
 ## Contexto de la práctica
