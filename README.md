@@ -100,67 +100,67 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ### Módulo 7. El Ecosistema de Google Gemini
 
-#### Práctica 1. Sintetizar información con NotebookLM
+#### [Práctica 1. Sintetizar información con NotebookLM](./Modulo-7.-El-Ecosistema-de-Google-Gemini/Practica-1.md)
 - **Descripción**: Utilizar herramientas de IA para consolidar múltiples fuentes de información en resúmenes claros y estructurados, facilitando la comprensión y el aprovechamiento del conocimiento organizacional.
 - ⏱️ **Duración estimada**: 15 min
 
-#### Práctica 2. Orquestar información en Gemini App
+#### [Práctica 2. Orquestar información en Gemini App](./Modulo-7.-El-Ecosistema-de-Google-Gemini/Practica-2.md)
 - **Descripción**: Aplicar capacidades de IA para integrar y recuperar información dispersa, automatizando procesos administrativos y mejorando la eficiencia en la gestión de datos.
 - ⏱️ **Duración estimada**: 15 min
 
-#### Práctica 3. Generar activos visuales con IA
+#### [Práctica 3. Generar activos visuales con IA](./Modulo-7.-El-Ecosistema-de-Google-Gemini/Practica-3.md)
 - **Descripción**: Crear materiales visuales de alta calidad mediante herramientas de IA, optimizando la comunicación de ideas y la generación de contenido para presentaciones corporativas.
 - ⏱️ **Duración estimada**: 15 min
 
-#### Práctica 4. Procesar documentos masivos con AI Studio
-- **Descripción**: Utilizar plataformas de IA para analizar grandes volúmenes de documentos no estructurados, extrayendo información clave que facilite la toma de decisiones empresariales.
-- ⏱️ **Duración estimada**: 15 min
+#### [Práctica 4. Diseñar Gems en Gemini](./Modulo-7.-El-Ecosistema-de-Google-Gemini/Practica-4.md)
+- **Descripción**: Crear apps personalizadas en Gemini que automaticen tareas creativas y operativas, aprovechando capacidades de aprendizaje guiado y generación multimodal.
+- ⏱️ **Duración estimada**: 20 min
 
 ### Módulo 8. El Ecosistema de OpenAI ChatGPT
 
-#### Práctica 1. Analizar datos con Advanced Data Analysis
+#### [Práctica 1. Analizar datos con Advanced Data Analysis](./Modulo-8.-El-Ecosistema-de-OpenAI-ChatGPT/Practica-1.md)
 - **Descripción**: Aplicar capacidades avanzadas de análisis de datos para interpretar información compleja y transformarla en resultados claros, accionables y orientados a la toma de decisiones.
 - ⏱️ **Duración estimada**: 15 min
 
-#### Práctica 2. Crear un GPT especializado
+#### [Práctica 2. Crear un GPT especializado](./Modulo-8.-El-Ecosistema-de-OpenAI-ChatGPT/Practica-2.md)
 - **Descripción**: Diseñar un agente personalizado capaz de analizar, comparar y generar información relevante a partir de documentos, adaptado a necesidades específicas de la organización.
 - ⏱️ **Duración estimada**: 15 min
 
 ### Módulo 9. Arquitectura de Agentes de IA
 
-#### Práctica 1. Explorar soluciones basadas en agentes
+#### [Práctica 1. Explorar soluciones basadas en agentes](./Modulo-9.-Arquitectura-de-Agentes-de-IA/Practica-1.md)
 - **Descripción**: Explorar ejemplos reales de agentes de IA para comprender su aplicación en procesos organizacionales y su impacto en la automatización de tareas.
 - ⏱️ **Duración estimada**: 6 min
 
-#### Práctica 2. Diferenciar asistente vs agente
+#### [Práctica 2. Diferenciar asistente vs agente](./Modulo-9.-Arquitectura-de-Agentes-de-IA/Practica-2.md)
 - **Descripción**: Identificar las diferencias funcionales entre asistentes y agentes de IA, comprendiendo sus roles dentro de procesos automatizados y su nivel de autonomía.
 - ⏱️ **Duración estimada**: 10 min
 
-#### Práctica 3. Diseñar la estructura de un agente
+#### [Práctica 3. Diseñar la estructura de un agente](./Modulo-9.-Arquitectura-de-Agentes-de-IA/Practica-3.md)
 - **Descripción**: Implementar herramientas de IA multimodal para automatizar la extracción de datos desde documentos físicos o imágenes, optimizando procesos de digitalización y gestión de información.
 - ⏱️ **Duración estimada**: 10 min
 
-#### Práctica 4. Definir manejo de excepciones (Manual de Crisis)
+#### [Práctica 4. Definir manejo de excepciones (Manual de Crisis)](./Modulo-9.-Arquitectura-de-Agentes-de-IA/Practica-4.md)
 - **Descripción**: Transformar representaciones visuales o esquemas en estructuras digitales organizadas mediante IA, facilitando la documentación formal y la comunicación de procesos dentro de la organización.
 - ⏱️ **Duración estimada**: 10 min
 
-#### Práctica 5. Gestionar fuentes de conocimiento
+#### [Práctica 5. Gestionar fuentes de conocimiento](./Modulo-9.-Arquitectura-de-Agentes-de-IA/Practica-5.md)
 - **Descripción**: Seleccionar, organizar y estructurar fuentes de información que alimenten a un agente, asegurando la calidad, precisión y actualización de sus respuestas.
 - ⏱️ **Duración estimada**: 10 min
 
-### Módulo 10. Desarrollo de GPTs y Gems
+### Módulo 10. Desarrollo de agentes con ChatGPT y Google AI Studio
 
 #### [Práctica 1. Construir agentes en ChatGPT](./Modulo-10.-Desarrollo-de-GPTs-y-Gems/Practica-1.md)
 - **Descripción**: Desarrollar agentes personalizados en ChatGPT mediante la integración de bases de conocimiento, asegurando respuestas precisas y alineadas a necesidades específicas del usuario.
 - ⏱️ **Duración estimada**: 20 min
 
-#### [Práctica 2. Diseñar Gems en Gemini](./Modulo-10.-Desarrollo-de-GPTs-y-Gems/Practica-2.md)
-- **Descripción**: Crear agentes personalizados en Gemini que automaticen tareas creativas y operativas, aprovechando capacidades de aprendizaje guiado y generación multimodal.
+#### [Práctica 2. Procesar documentos masivos con AI Studio](./Modulo-10.-Desarrollo-de-GPTs-y-Gems/Practica-2.md)
+- **Descripción**: Utilizar plataformas de IA para analizar grandes volúmenes de documentos no estructurados, extrayendo información clave que facilite la toma de decisiones empresariales.
 - ⏱️ **Duración estimada**: 20 min
 
 ### Módulo 11. Implementación de agentes en el flujo de trabajo con Copilot Studio
 
-#### Práctica 1. Implementar agentes en Copilot Studio
+#### [Práctica 1. Implementar agentes en Copilot Studio](./Modulo-11.-Implementación-de-agentes-en-el-flujo-de-trabajo-con-Copilot-Studio/Practica-1.md)
 - **Descripción**: Integrar un agente en un flujo de trabajo real utilizando Copilot Studio, automatizando tareas, consultas y procesos organizacionales de manera eficiente.
 - ⏱️ **Duración estimada**: 45 min
 
