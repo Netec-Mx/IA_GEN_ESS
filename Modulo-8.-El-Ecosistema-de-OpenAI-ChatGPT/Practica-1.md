@@ -31,7 +31,7 @@ Debes analizar los datos con Advanced Data Analysis (ADA) para generar insights 
 ### Parte 1. Exploración inicial del dataset
 En esta etapa comprenderás la estructura de los datos.
 
-1. Descarga el archivo [censo_pob_viv_2020.zip](../images/M8/P1/censo_pob_viv_2020.zip) y extrae el archivo excel que se encuentra comprimido.
+1. Descarga el archivo [censo_pob_viv_2020.xlsx](https://docs.google.com/spreadsheets/d/1SUQfZjHIPDsh8mKb6ukC-JpKtbtLvWrB/edit?usp=sharing&ouid=100656380906672528108&rtpof=true&sd=true) .
 2. Ingresa a ChatGPT y crea un nuevo chat
 3. Carga el archivo censo_pob_viv_2020.xlsx e integra el siguiente prompt:
 
