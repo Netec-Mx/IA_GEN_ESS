@@ -1,4 +1,4 @@
-# Práctica 4. Diseñar Gems en Gemini
+# Práctica/Demostración 4. Diseñar Gems en Gemini
 ## Objetivos
 Crear apps personalizadas en Gemini que automaticen tareas creativas y operativas, aprovechando capacidades de aprendizaje guiado y generación multimodal.
 

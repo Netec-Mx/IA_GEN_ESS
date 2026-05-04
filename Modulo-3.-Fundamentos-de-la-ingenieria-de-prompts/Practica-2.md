@@ -23,7 +23,7 @@ Antes de utilizar estos resultados para la toma de decisiones, es necesario eval
 
 1. Ingresa a ChatGPT, Gemini o Copilot.
 2. Escribe el siguiente prompt sin agregar contexto adicional:
-    ```
+    ```text
     Analiza la situación financiera de una empresa.
     ```
 3. Lee cuidadosamente la respuesta generada y analiza:
@@ -32,7 +32,7 @@ Antes de utilizar estos resultados para la toma de decisiones, es necesario eval
     - ¿Presenta datos concretos o generalidades?
     - ¿La respuesta podría aplicarse a cualquier empresa?
 4. Ahora redacta un prompt incorporando contexto mínimo, por ejemplo:
-    ```
+    ```text
     Analiza la situación financiera de una empresa mediana del sector retail.
     ```
 5. Analiza nuevamente la respuesta y responde:
@@ -40,7 +40,7 @@ Antes de utilizar estos resultados para la toma de decisiones, es necesario eval
     - ¿La IA ajustó el lenguaje y los supuestos?
     - ¿Sigue siendo un análisis genérico?
 6. Ahora utiliza un prompt más completo, considerando los elementos básicos de un buen prompt (contexto + instrucción + formato de salida), por ejemplo:
-    ```
+    ```text
     Analiza la situación financiera de una empresa mediana del sector retail en [nombre de tu País].
     La empresa tiene 10 años de operación, ingresos anuales aproximados de 2 millones de dólares y busca 
     identificar riesgos financieros generales.
@@ -53,7 +53,7 @@ Antes de utilizar estos resultados para la toma de decisiones, es necesario eval
     - ¿Cómo podrías obtener información más específica acerca de una empresa?
 8. Ahora utiliza un prompt que incluya el nombre de una empresa real del sector retail en [nombre de tu País]. 
 9. Escribe el siguiente prompt en la herramienta de IA:
-    ```
+    ```text
     Analiza la situación financiera de la empresa ["Cuidado con el Perro"] del sector retail en [México].
     ```
 10. Analiza la respuesta generada y reflexiona:
@@ -62,7 +62,7 @@ Antes de utilizar estos resultados para la toma de decisiones, es necesario eval
     - ¿Mezcla hechos conocidos con suposiciones?
     - ¿La respuesta suena convincente aunque no esté verificada?
 11. Ahora prueba con un prompt más específico, por ejemplo:
-    ```
+    ```text
     Analiza la situación financiera de la empresa [Cuidado con el Perro], una empresa del 
     sector retail en [México] con más de 10 años de operación.
     Para este análisis:
@@ -80,7 +80,7 @@ En esta parte trabajarás con datos numéricos financieros, para analizar cómo 
 El objetivo no es obtener un cálculo perfecto, sino evaluar la confiabilidad del análisis generado por la IA según la calidad del prompt.
 
 1. Escribe el siguiente prompt sin agregar contexto adicional:
-    ```
+    ```text
     Analiza los siguientes datos financieros y dame una conclusión:
     Ingresos: 50,000,000 MXN 
     Costos: 42,000,000 MXN 
@@ -92,7 +92,7 @@ El objetivo no es obtener un cálculo perfecto, sino evaluar la confiabilidad de
     - ¿Menciona métricas como margen o crecimiento sin conocer el contexto?
     - ¿Qué información falta para interpretar correctamente los números?
 3. Ahora utiliza el siguiente prompt, agregando un poco de contexto:
-    ```
+    ```text
     Analiza los siguientes datos financieros de una empresa:
     Ingresos anuales: 50,000,000 MXN  
     Costos operativos anuales: 42,000,000 MXN   
@@ -105,7 +105,7 @@ El objetivo no es obtener un cálculo perfecto, sino evaluar la confiabilidad de
     - ¿Sigue asumiendo información que no fue proporcionada?
     - ¿Qué tan útil es ahora la conclusión?
 5. Ahora utiliza un prompt más completo, siguiendo la estructura básica de un buen prompt:
-    ```
+    ```text
     Analiza los siguientes datos financieros de una empresa del sector retail en México:
     - Ingresos anuales: 50,000,000 MXN  
     - Costos operativos: 42,000,000 MXN  

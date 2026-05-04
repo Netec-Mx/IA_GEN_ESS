@@ -73,7 +73,7 @@ Realiza un análisis de alto nivel y explica los factores a considerar.
 
     Puedes usar el siguiente ejemplo como referencia:
 
-    ```
+    ```text
     Actúa como un analista de logística.
     Nuestra empresa opera en [México] y actualmente trabaja con proveedores logísticos con 
     los siguientes indicadores promedio:
@@ -90,7 +90,7 @@ Realiza un análisis de alto nivel y explica los factores a considerar.
 
     Puedes usar este ejemplo como referencia:
 
-    ```
+    ```text
         Compara las métricas anteriores con referencias generales del mercado logístico en
         [México] y con rangos de desempeño esperados para proveedores de paquetería y transporte conocidos.
         Con base en esta comparación:

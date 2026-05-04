@@ -1,4 +1,4 @@
-# Práctica 2. Orquestar información en Gemini App
+# Práctica/Demostración 2. Orquestar información en Gemini App
 ## Objetivos
 Aplicar capacidades de IA para integrar y recuperar información dispersa, automatizando procesos administrativos y mejorando la eficiencia en la gestión de datos.
 
@@ -6,7 +6,7 @@ Aplicar capacidades de IA para integrar y recuperar información dispersa, autom
 - 15 minutos.
 
 ## Tabla de ayuda
-Para que puedas replicar esta práctica, se recomienda tener una cuenta en la siguiente plataformas:
+Para que puedas replicar esta práctica, se recomienda tener una cuenta **personal** en:
 
 | Sitio web | Enlace |
 | --- | --- | 
