@@ -191,7 +191,7 @@ Si no hay suficiente información, indícalo explícitamente.
 ### Resultado esperado
 Al finalizar la práctica, el participante será capaz de:
 - Utilizar herramientas de visión artificial para analizar imágenes en contextos operativos.
-- xtraer información relevante y convertirla en datos estructurados.
+- Extraer información relevante y convertirla en datos estructurados.
 - Diseñar prompts que permitan identificar incidencias, riesgos y estados operativos a partir de evidencia visual.
 - Estandarizar datos para asegurar su compatibilidad con sistemas empresariales.
 - Integrar información visual con datos estructurados mediante cruces analíticos.

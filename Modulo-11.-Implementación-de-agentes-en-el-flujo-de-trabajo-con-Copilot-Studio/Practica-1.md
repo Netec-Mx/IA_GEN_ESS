@@ -3,7 +3,7 @@
 Integrar un agente en un flujo de trabajo real utilizando Copilot Studio, automatizando tareas, consultas y procesos organizacionales de manera eficiente.
 
 ## Duración aproximada
-- 40 minutos.
+- 45 minutos.
 
 ## Tabla de ayuda
 Para que puedas replicar esta prácticas, se recomienda tener una cuenta en la siguiente plataforma:

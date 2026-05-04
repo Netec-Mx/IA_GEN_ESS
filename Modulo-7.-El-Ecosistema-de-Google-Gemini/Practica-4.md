@@ -1,6 +1,6 @@
 # Práctica 4. Diseñar Gems en Gemini
 ## Objetivos
-Crear agentes personalizados en Gemini que automaticen tareas creativas y operativas, aprovechando capacidades de aprendizaje guiado y generación multimodal.
+Crear apps personalizadas en Gemini que automaticen tareas creativas y operativas, aprovechando capacidades de aprendizaje guiado y generación multimodal.
 
 ## Duración aproximada
 - 20 minutos.

@@ -172,8 +172,8 @@ Ahora, actúa como un sistema de automatización legal. Realiza las siguientes d
 ### Resultado esperado
 Al finalizar esta práctica, el participante habrá logrado:
 - Configurar un entorno de trabajo avanzado en Google AI Studio, seleccionando modelos específicos según la necesidad de la tarea.
-- Arquitectura de Prompts: Diseñar instrucciones estructuradas mediante el uso de System Instructions, asegurando que la IA actúe bajo un rol de experto legal con reglas de comportamiento inamovibles.
-- Control de Precisión: Ajustar parámetros técnicos (Temperatura) para garantizar resultados objetivos, eliminando alucinaciones y priorizando la extracción literal de datos en entornos críticos.
-- Procesamiento Multimodal y Masivo: Ejecutar auditorías, visualizaciones de riesgo y normalización de documentos a escala, aprovechando la ventana de contexto para analizar múltiples fuentes de información de manera simultánea y coherente.
-- Estandarización de Procesos: Transformar el análisis de datos no estructurados en protocolos de Legal Ops, generando soluciones que impactan directamente en la eficiencia y seguridad jurídica de una organización.
+- Diseñar instrucciones estructuradas mediante el uso de System Instructions, asegurando que la IA actúe bajo un rol de experto legal con reglas de comportamiento inamovibles.
+- Ajustar parámetros técnicos (Temperatura) para garantizar resultados objetivos, eliminando alucinaciones y priorizando la extracción literal de datos en entornos críticos.
+- Ejecutar auditorías, visualizaciones de riesgo y normalización de documentos a escala, aprovechando la ventana de contexto para analizar múltiples fuentes de información de manera simultánea y coherente.
+- Transformar el análisis de datos no estructurados en protocolos de Legal Ops, generando soluciones que impactan directamente en la eficiencia y seguridad jurídica de una organización.
 
