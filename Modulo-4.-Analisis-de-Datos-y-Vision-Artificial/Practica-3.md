@@ -27,7 +27,7 @@ La empresa quiere utilizar Inteligencia Artificial para extraer información des
 En esta etapa analizarás visualmente productos e información de inventario.
 
 1. Ingresa a Gemini y crea una nueva conversación
-2. Descarga el contenido de esta carpeta: [inventario](../images/M4/P3/) y selecciona una imagen (la que prefieras).
+2. Descarga el contenido de esta carpeta: [inventario](https://drive.google.com/drive/folders/1cw_LtCspSZBBJfGKYQOdyFCYj4aXqTPB?usp=sharing) y selecciona una imagen (la que prefieras).
 3. Selecciona una de las imágenes disponibles de la carpeta.
 4. Carga la imagen en la herramienta y escribe el siguiente prompt:
 

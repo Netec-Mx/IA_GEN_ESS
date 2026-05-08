@@ -32,7 +32,7 @@ El negocio planea utilizar Inteligencia Artificial para interpretar los diagrama
 ### Parte 1. Análisis del diagrama
 En esta etapa interpretarás un diagrama hecho a mano.
 
-1. Descarga el contenido de esta carpeta: [diagramas](../images/M4/P4/)
+1. Descarga el contenido de esta carpeta: [diagramas](https://drive.google.com/drive/folders/1Fs-LpXgRRP5RzMdFemQo8lI7QjZNbe1E?usp=sharing)
 2. Selecciona alguno de los esquemas
 3. Ingresa a ChatGPT
 4. Carga la imagen del diagrama y escribe el siguiente prompt:
