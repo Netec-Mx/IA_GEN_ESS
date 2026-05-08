@@ -13,6 +13,7 @@ Para que puedas replicar esta práctica, se recomienda tener una cuenta en cualq
 | ChatGPT | https://auth.openai.com/create-account | 
 | Copilot | https://copilot.microsoft.com/login o https://m365.cloud.microsoft/ |
 | Gemini | https://gemini.google.com/app?hl=es |
+
 ## Instrucciones 
 Sigue los pasos a continuación para completar cada tarea que conforma la práctica.
 
